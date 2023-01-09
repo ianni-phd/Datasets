@@ -2,10 +2,6 @@ uid,name,age,gender,race,date,city,state,manner_of_death,mental_illness
 133,Karen O. Chin,44,Female,Asian,2000-05-04,Alameda,CA,Shot,false
 169,Chyraphone Komvongsa,26,Male,Asian,2000-06-02,Fresno,CA,Shot,false
 257,Ming Chinh Ly,36,Male,Asian,2000-08-13,Rosemead,CA,Shot,false
-483,Kinh Quoc Dao,29,Male,Asian,2001-02-09,Valley Glen,CA,Shot,false
-655,Vanpaseuth Phaisouphanh,25,Male,Asian,2001-06-10,Riverside,CA,Shot,false
-668,Bernardo Ancheta Caberto,55,Male,Asian,2001-06-23,Henderson,NV,Shot,false
-677,Cuong Tran,33,Male,Asian,2001-06-30,Syracuse,NY,Shot,true
 678,Sengsadaphet Phongsavanh,29,Male,Asian,2001-07-01,Beaverton,OR,Shot,true
 686,Nam Quoc Nguyen,21,Male,Asian,2001-07-06,Garden Grove,CA,Shot,false
 736,Rosa Hammer,27,Female,Asian,2001-08-09,Gorst,WA,Shot,false
@@ -14,6 +10,10 @@ uid,name,age,gender,race,date,city,state,manner_of_death,mental_illness
 1103,Vue Xiong,23,Male,Asian,2002-05-25,Fresno,CA,Shot,false
 1273,Dai Tran Nguyen,37,Male,Asian,2002-09-11,Stanton,CA,Shot,false
 1295,Ki Yang,46,Male,Asian,2002-09-29,Saint Paul,MN,Shot,true
+483,Kinh Quoc Dao,29,Male,Asian,2001-02-09,Valley Glen,CA,Shot,false
+655,Vanpaseuth Phaisouphanh,25,Male,Asian,2001-06-10,Riverside,CA,Shot,false
+668,Bernardo Ancheta Caberto,55,Male,Asian,2001-06-23,Henderson,NV,Shot,false
+677,Cuong Tran,33,Male,Asian,2001-06-30,Syracuse,NY,Shot,true
 1304,Hyunh Thai Luu,21,Male,Asian,2002-10-09,San Diego,CA,Shot,false
 1327,Frederick Moraga,38,Male,Asian,2002-11-03,Burlingame,CA,Shot,false
 1347,Jerry Tan,28,Male,Asian,2002-11-16,San Francisco,CA,Shot,false
