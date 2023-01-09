@@ -1,0 +1,2091 @@
+id,name,date,age,gender,race,city,state
+3,Tim Elliot,2015-01-02,53,M,A,Shelton,WA
+4,Lewis Lee Lembke,2015-01-02,47,M,W,Aloha,OR
+5,John Paul Quintero,2015-01-03,23,M,H,Wichita,KS
+8,Matthew Hoffman,2015-01-04,32,M,W,San Francisco,CA
+9,Michael Rodriguez,2015-01-04,39,M,H,Evans,CO
+11,Kenneth Joe Brown,2015-01-04,18,M,W,Guthrie,OK
+13,Kenneth Arnold Buck,2015-01-05,22,M,H,Chandler,AZ
+29,Loren Simpson,2015-01-08,28,M,W,Huntley,MT
+32,James Dudley Barker,2015-01-08,42,M,W,Salt Lake City,UT
+36,Artago Damon Howard,2015-01-08,36,M,B,Strong,AR
+37,Thomas Hamby,2015-01-08,49,M,W,Syracuse,UT
+38,Jimmy Foreman,2015-01-09,71,M,W,England,AR
+325,Andy Martinez,2015-01-09,33,M,H,El Paso,TX
+42,Tommy Smith,2015-01-11,39,M,W,Arcola,IL
+43,Brian  Barbosa,2015-01-11,23,M,H,South Gate,CA
+45,Salvador Figueroa,2015-01-11,29,M,H,North Las Vegas,NV
+46,John Edward O'Keefe,2015-01-13,34,M,W,Albuquerque,NM
+48,Richard McClendon,2015-01-13,43,M,W,Jourdanton,TX
+49,Marcus Golden,2015-01-14,24,M,B,St. Paul,MN
+50,Michael Goebel,2015-01-14,29,M,W,Franklin County,MO
+51,Mario Jordan,2015-01-14,34,M,B,Chesapeake,VA
+52,Talbot Schroeder,2015-01-14,75,M,W,Old Bridge,NJ
+54,Robert Edwards,2015-01-14,68,M,W,Lake Jackson,TX
+15,Brock Nichols,2015-01-06,35,M,W,Assaria,KS
+16,Autumn Steele,2015-01-06,34,F,W,Burlington,IA
+17,Leslie Sapp III,2015-01-06,47,M,B,Knoxville,PA
+19,Patrick Wetter,2015-01-06,25,M,W,Stockton,CA
+21,Ron Sneed,2015-01-07,31,M,B,Freeport,TX
+22,Hashim Hanif Ibn Abdul-Rasheed,2015-01-07,41,M,B,Columbus,OH
+25,Nicholas Ryan Brickman,2015-01-07,30,M,W,Des Moines,IA
+27,Omarr Julian Maximillian Jackson,2015-01-07,37,M,B,New Orleans,LA
+55,Jeffrey R. Nielson,2015-01-14,34,M,W,Draper,UT
+56,Donte Sowell,2015-01-15,27,M,B,Indianapolis,IN
+57,Kavonda Earl Payton,2015-01-15,39,M,B,Aurora,CO
+60,Quincy Reed Reindl,2015-01-15,24,M,W,Bloomington,MN
+63,Jose Ceja,2015-01-15,36,M,H,Fairfield,CA
+64,Nathan Massey,2015-01-15,33,M,W,Evangeline Parish,LA
+67,Scott Hall,2015-01-16,41,M,W,Mabank,TX
+68,Zaki Shinwary,2015-01-16,48,M,O,Fremont,CA
+74,Terence Walker,2015-01-17,21,M,B,Muskogee,OK
+75,Pablo Meza,2015-01-17,24,M,H,Los Angeles,CA
+78,Daniel Brumley,2015-01-17,27,M,H,Fort Worth,TX
+80,Jonathan Guillory,2015-01-18,32,M,W,Maricopa,AZ
+83,Carter Castle,2015-01-18,67,M,W,Gunlock,KY
+84,Paul Campbell,2015-01-19,49,M,W,Weymouth,MA
+85,Dewayne Carr,2015-01-20,42,M,B,Scottsdale,AZ
+86,Todd Allen Hodge,2015-01-21,36,M,W,Hemet,CA
+88,Miguel Angel de Santos-Rodriguez,2015-01-21,36,M,H,Chapeno,TX
+90,Isaac Holmes,2015-01-21,19,M,B,St. Louis,MO
+98,Andrew Toto,2015-01-21,54,M,W,Derry,NH
+99,Tiano Meton,2015-01-22,25,M,B,Sierra Blanca,TX
+100,Kristiana Coignard,2015-01-22,17,F,W,Longview,TX
+336,Robert Francis Mesch,2015-01-23,61,M,W,Austin,TX
+101,Demaris Turner,2015-01-23,29,M,B,Fort Lauderdale,FL
+102,Jose Antonio Espinoza Ruiz,2015-01-23,56,M,H,Levelland,TX
+341,Wendell King,2015-01-24,40,M,W,Fort Worth,TX
+105,Daryl Myler,2015-01-24,45,M,W,Rexburg,ID
+107,Darin Hutchins,2015-01-24,26,M,B,Baltimore,MD
+108,Orlando Jude Lopez,2015-01-25,26,M,H,Pueblo,CO
+110,William Campbell,2015-01-25,59,M,,Winslow,NJ
+20,Jessie Hernandez,2015-01-26,17,F,H,Denver,CO
+324,Raymond Kmetz,2015-01-26,68,M,W,New Hope,MN
+352,Joshua Omar Garcia,2015-01-26,24,M,H,Tahoka,TX
+353,David Garcia,2015-01-26,34,M,H,Wasco,CA
+348,Nicolas Leland Tewa,2015-01-27,26,M,N,Phoenix,AZ
+349,Chris Ingram,2015-01-27,29,M,W,Morenci,AZ
+350,Jermonte Fletcher,2015-01-27,33,M,B,Columbus,OH
+111,Tiffany Terry,2015-01-27,39,F,W,Omaha,NE
+345,Alan Lance Alverson,2015-01-28,45,M,W,Sunset,TX
+346,Matautu Nuu,2015-01-28,35,M,A,Stockton,CA
+347,Cody Karasek,2015-01-28,26,M,W,Rosenberg,TX
+342,Ralph Willis,2015-01-29,42,M,W,Stillwater,OK
+112,Alan James,2015-01-29,31,M,W,Wyoming,MI
+113,John Barry Marshall,2015-01-30,48,M,W,Billings,MT
+338,Victor Manuel Reyes,2015-01-31,31,M,H,Houston,TX
+339,Edward Donnell Bright,2015-01-31,54,M,B,Randallstown,MD
+528,Jacob Haglund,2015-02-02,17,M,W,Bay City,MI
+114,David Kassick,2015-02-02,59,M,W,Hummelstown,PA
+115,Francis Murphy Rose III,2015-02-02,42,M,W,Apple Valley,CA
+117,Ledarius D. Williams,2015-02-03,23,M,B,St. Louis,MO
+118,Yuvette Henderson,2015-02-03,38,F,B,Emeryville,CA
+119,Dewayne Deshawn Ward,2015-02-03,29,M,B,Antioch,CA
+120,Anthony Purvis,2015-02-03,45,M,W,Douglas,GA
+116,Jeremy Lett,2015-02-04,28,M,B,Tallahassee,FL
+123,Izzy Colon,2015-02-04,37,M,H,Orlando,FL
+124,Salvador Muna,2015-02-04,28,M,H,Tempe,AZ
+125,Joaquin Hernandez,2015-02-04,28,M,H,Tempe,AZ
+126,Jimmy Ray Robinson Jr.,2015-02-04,51,M,B,Lorena,TX
+127,Markell Atkins,2015-02-04,36,M,B,Memphis,TN
+128,Paul Alfred Eugene Johnson,2015-02-05,59,M,W,Chino,CA
+129,Herbert Hill,2015-02-06,25,M,B,Oklahoma City,OK
+532,John  Sawyer,2015-02-07,26,M,W,Calimesa,CA
+554,James Allen,2015-02-07,74,M,B,Gastonia,NC
+131,John Martin Whittaker,2015-02-08,33,M,W,Anchorage,AK
+132,Sawyer Flache,2015-02-08,27,M,W,Austin,TX
+133,Vincent Cordaro,2015-02-08,57,M,W,New City,NY
+134,Joseph Paffen,2015-02-08,46,M,W,Orange County,FL
+135,Larry Hostetter,2015-02-08,41,M,W,Nocona,TX
+136,Kenneth Kreyssig,2015-02-09,61,M,W,Smyrna,ME
+137,Desmond Luster,2015-02-09,45,M,B,Dallas,TX
+138,Antonio Zambrano-Montes,2015-02-10,35,M,H,Pasco,WA
+139,Anthony Bess,2015-02-10,49,M,B,Whitehaven,TN
+140,Brian Fritze,2015-02-10,45,M,W,New Castle,CO
+141,Phillip Watkins,2015-02-11,23,M,B,San Jose,CA
+142,Fletcher Ray Stewart,2015-02-11,46,M,W,Dadeville,AL
+145,Jonathan Larry Harden,2015-02-13,23,M,W,San Bernardino,CA
+146,Andres Lara-Rodriguez,2015-02-13,21,M,H,Kansas City,KS
+147,Richard Carlin,2015-02-13,35,M,H,Reading,PA
+148,Matthew D. Belk,2015-02-13,27,M,W,McLemoresville,TN
+154,Daniel Mejia,2015-02-13,37,M,H,San Manuel,AZ
+149,Jason C. Hendrix,2015-02-14,16,M,W,Essex,MD
+155,Roy Joy Day,2015-02-14,51,M,W,Laredo,TX
+150,Lavall Hall,2015-02-15,25,M,B,Miami Gardens,FL
+151,Howard Brent Means Jr.,2015-02-15,34,M,W,Iuka,MS
+153,Bruce Steward,2015-02-15,34,M,W,Colton,OR
+156,Lawrence Caldwell,2015-02-16,56,M,W,Marana,AZ
+157,Michael K. Casper,2015-02-16,26,M,W,Boise,ID
+158,Cody Evans,2015-02-16,24,M,W,Provo,UT
+130,Betty Sexton,2015-02-17,43,F,W,Gaston County,NC
+159,Michael Ireland,2015-02-17,31,M,W,Springfield,MO
+160,Matthew Lundy,2015-02-17,32,M,W,Eaton Rapids Township,MI
+161,Douglas Sparks,2015-02-17,30,M,W,Tewksbury,MA
+162,Pedro Juan Saldivar,2015-02-17,50,M,H,Del Rio,TX
+163,Janisha Fonville,2015-02-18,20,F,B,Charlotte,NC
+584,Alejandro Salazar,2015-02-20,,M,H,Houston,TX
+165,Ruben Villalpando,2015-02-20,31,M,H,Euless,TX
+166,Stanley Lamar Grant,2015-02-20,38,M,B,Homewood,AL
+255,Douglas Harris,2015-02-20,77,M,B,Birmingham,AL
+167,Jason Moncrief Carter,2015-02-21,41,M,W,Ruidoso,NM
+168,Kent Norman,2015-02-21,51,M,W,Indianapolis,IN
+170,Bradford Leonard,2015-02-22,50,M,W,Palm Bay,FL
+266,Jerome Nichols,2015-02-23,42,M,W,Allentown,PA
+371,Daniel Elrod,2015-02-23,39,M,W,Omaha,NE
+172,Robert Kohl,2015-02-23,47,M,W,Denham Springs,LA
+174,Michael Wayne Smashey,2015-02-23,37,M,W,Powder Springs,GA
+175,Anthony Giaquinta,2015-02-23,41,M,W,Clarkesville,GA
+176,A'Donte Washington,2015-02-23,16,M,B,Millbrook,AL
+177,Joseph Biegert,2015-02-24,30,M,W,Green Bay,WI
+178,Glenn Lewis,2015-02-25,27,M,B,Oklahoma City,OK
+179,Francis Spivey,2015-02-25,43,M,W,Las Vegas,NV
+180,Alexander Phillip Long,2015-02-26,31,M,W,Terre Haute,IN
+181,David Cuevas,2015-02-26,42,M,H,Lakeland,FL
+182,Amilcar Perez-Lopez,2015-02-26,21,M,H,San Francisco,CA
+183,Rodney Biggs,2015-02-26,49,M,W,Gulfport,MS
+184,Crystal Lee Miley Harry,2015-02-26,34,F,W,Sylvester,GA
+185,Ernesto Javiar Canepa Diaz,2015-02-27,27,M,H,Santa Ana,CA
+186,Chazsten Freeman,2015-02-28,24,M,W,Pelzer,SC
+187,Deven Guilford,2015-02-28,17,M,W,Roxand Township,MI
+188,Thomas Allen,2015-02-28,34,M,B,St Louis,MO
+189,Jessica Uribe,2015-02-28,28,F,H,Tucson,AZ
+190,Cornelius J. Parker,2015-02-28,28,M,B,Columbia,MO
+191,Ian Sherrod,2015-02-28,40,M,B,Tarboro,NC
+192,Stephanie Hill,2015-02-28,37,F,W,La Paz County,AZ
+268,Donald Lewis Matkins,2015-03-01,49,M,W,Barton,MS
+194,Charly Leundeu Keunang,2015-03-01,43,M,B,Los Angeles,CA
+195,Hung Trieu,2015-03-01,35,M,A,Houston,TX
+196,Shaquille Barrow,2015-03-02,20,M,B,Joilet,IL
+197,Fednel Rhinvil,2015-03-03,25,M,B,Salisbury,MD
+198,Matthew Metz,2015-03-03,25,M,W,Tempe,AZ
+199,Derek Cruice,2015-03-04,26,M,W,Deltona,FL
+249,Carl Lao,2015-03-04,28,M,A,Stockton,CA
+200,Tyrone Ryerson Lawrence,2015-03-05,45,M,B,Milwaukee,WI
+201,Sergio Alexander Navas,2015-03-05,36,M,H,Burbank,CA
+202,Tyson Hubbard,2015-03-05,34,M,W,Lincoln,NE
+269,Naeschylus  Vinzant,2015-03-06,37,M,B,Aurora,CO
+270,Andrew Anthony Williams,2015-03-06,48,M,B,Putnam Hall,FL
+203,Tony Robinson,2015-03-06,19,M,B,Madison,WI
+271,Adam Reinhart,2015-03-07,29,M,W,Phoenix,AZ
+272,Aurelio Duarte,2015-03-08,40,M,H,Oklahoma City,OK
+273,Michael McKillop,2015-03-08,35,M,W,Claymont,DE
+204,Monique Jenee Deckard,2015-03-08,43,F,B,Anaheim,CA
+274,Lester Brown,2015-03-09,58,M,W,Brevard,NC
+275,James Brent Damon,2015-03-09,46,M,W,Dinosaur,CO
+276,Cedrick Lamont Bishop,2015-03-09,30,M,B,Cocoa,FL
+205,Anthony Hill,2015-03-09,27,M,B,Atlanta,GA
+278,Jamie Croom,2015-03-10,31,M,B,Baton Rouge,LA
+536,Christopher Mitchell,2015-03-10,23,M,W,Port Wentworth,GA
+883,Edixon  Franco,2015-03-10,37,M,H,Ontario,CA
+206,Theodore Johnson,2015-03-10,64,M,B,Cleveland,OH
+277,James Greenwell,2015-03-11,31,M,W,Memphis,TN
+279,Benito Osorio,2015-03-11,39,M,H,Santa Ana,CA
+281,Ryan Dean Burgess,2015-03-11,31,M,W,Kingman,AZ
+796,Aaron Valdez,2015-03-11,25,M,H,Los Angeles,CA
+307,Gilbert Fleury,2015-03-11,54,M,W,Bay Minette,AL
+581,William Russell  Smith,2015-03-11,53,M,W,Hoover,AL
+248,Terry Garnett Jr.,2015-03-11,37,M,B,Elkton,MD
+282,Bobby Gross,2015-03-12,35,M,B,Washington,DC
+283,Fred  Liggett,2015-03-13,59,M,W,Kansas City,MO
+289,Andrew Driver,2015-03-13,36,M,W,Fontana,CA
+351,Antonio Perez,2015-03-13,32,M,H,Walnut Creek,CA
+207,James Richard Jimenez,2015-03-13,41,M,H,Napa,CA
+287,Richard Castilleja,2015-03-14,29,M,H,San Antonio,TX
+208,Clifton Reintzel,2015-03-14,53,M,W,Follansbee,WV
+209,Aaron Siler,2015-03-14,26,M,W,Kenosha,WI
+210,Troy Ray Boyd,2015-03-15,27,M,W,Ruth,MS
+212,Justin Tolkinen,2015-03-16,28,M,W,St. Paul,MN
+213,William Dean Poole,2015-03-16,52,M,W,Gastonia,NC
+290,Eugene Smith,2015-03-17,20,M,W,Onalaska,TX
+292,Roberto Leon,2015-03-17,22,M,H,Sacramento,CA
+216,Andrew Charles Shipley,2015-03-17,49,M,W,Medford,OR
+217,Declan Owen,2015-03-17,24,M,W,Dublin,NC
+221,Alice Brown,2015-03-17,24,F,W,San Francisco,CA
+294,Jeff Alexander,2015-03-18,47,M,W,Bakersfield,CA
+225,Kaylene Stone,2015-03-18,49,F,W,Glendale,AZ
+226,Garland Lee Wingo,2015-03-18,64,M,W,Tallahassee,FL
+265,Kendre Alston,2015-03-19,16,M,B,Jacksonville,FL
+295,Jamison  Childress,2015-03-19,20,M,W,Sumas,WA
+306,Robert Burdge,2015-03-19,36,M,W,Bakersfield,CA
+228,Shane Watkins,2015-03-19,39,M,W,Lawrence County,AL
+229,Brandon Jones,2015-03-19,18,M,B,Cleveland,OH
+230,Brandon Rapp,2015-03-19,31,M,W,Middleton,ID
+531,Justin Fowler,2015-03-20,24,M,N,Red Valley,AZ
+308,Richard White,2015-03-20,63,M,B,New Orleans,LA
+310,Tyrel Vick,2015-03-20,34,M,W,Coal County,OK
+309,James Ellis,2015-03-21,44,M,W,Clarendon,NY
+311,Gary Page,2015-03-21,60,M,W,Harmony,IN
+312,Jason Smith,2015-03-21,42,M,W,Columbus,OH
+235,Enoch Gaver,2015-03-21,21,M,W,Cottonwood,AZ
+231,Phillip Conley,2015-03-22,37,M,W,Vallejo,CA
+233,Christopher Ryan Healy,2015-03-22,36,M,W,Portland,OR
+234,Denzel Brown,2015-03-22,21,M,B,Islip,NY
+237,Devin Gates,2015-03-23,24,M,B,Santa Clara,CA
+313,Stephen Snyder,2015-03-24,38,M,W,Fond du Lac,WI
+238,Walter J. Brown III,2015-03-24,29,M,B,Portsmouth,VA
+247,Scott Dunham,2015-03-24,57,M,W,San Jose,CA
+239,Nicholas Thomas,2015-03-25,23,M,B,Smyrna,GA
+240,Jeremy Lorenza Kelly,2015-03-25,27,M,B,Johnsonville,SC
+241,Victor Terrazas,2015-03-25,28,M,H,South Los Angeles,CA
+242,Joseph Tassinari,2015-03-25,63,M,W,Glendale,AZ
+246,Deanne Choate,2015-03-26,53,F,W,Gardner,KS
+250,Adrian Solis,2015-03-26,35,M,H,Wilmington,CA
+256,Gary Kendrick,2015-03-27,56,M,W,Encinitas,CA
+257,Jamalis Hall,2015-03-27,39,M,B,Fort Pierce,FL
+258,Adrian Hernandez,2015-03-27,23,M,H,Bakersfield,CA
+316,Neil Seifert,2015-03-27,40,M,W,Webster,MA
+245,Megan Hockaday,2015-03-27,26,F,B,Oxnard,CA
+251,Harvey Oates,2015-03-27,42,M,W,Fort Ashby,WV
+254,Angelo West,2015-03-27,41,M,B,Boston,MA
+264,Robert Rooker,2015-03-29,26,M,W,Jasper,OH
+252,Byron Herbert,2015-03-29,29,M,B,Elizabethtown,KY
+262,Brian Babb,2015-03-30,49,M,W,Eugene,OR
+244,John Marcell Allen,2015-03-30,54,M,,Boulder City,NV
+259,Jeremy Anderson,2015-03-31,36,M,W,Carollwood,FL
+261,Benjamin Quezada,2015-03-31,21,M,H,Baytown,TX
+263,Mya Hall,2015-03-31,27,F,B,Fort Meade,MD
+267,Robert Washington,2015-04-01,37,M,B,Hawthorne,CA
+533,Shawn Clyde,2015-04-01,36,M,W,Hamilton,NJ
+286,Darrin Langford,2015-04-02,32,M,B,Rock Island,IL
+288,Donald Hicks,2015-04-02,63,M,W,Metropolis,IL
+291,Eric Harris,2015-04-02,44,M,B,Tulsa,OK
+303,Aaron Rutledge,2015-04-02,27,M,W,Pineville,LA
+299,Christopher Prevatt,2015-04-03,38,M,W,Winchester,VA
+296,Justus Howell,2015-04-04,17,M,B,Zion,IL
+297,Walter Scott,2015-04-04,50,M,B,North Charleston,SC
+300,Paul Anderson,2015-04-04,31,M,B,Orange,CA
+302,Ethan Noll,2015-04-04,34,M,W,Edgewood,NM
+301,Ken Cockerel,2015-04-05,51,M,W,Phoenix,AZ
+304,Richard Hanna,2015-04-05,56,M,W,Tehachapi,CA
+298,Alexander Myers,2015-04-06,23,M,W,Indianapolis,IN
+318,Desmond Willis,2015-04-06,25,M,B,Harvey,LA
+322,Tyrell J. Larsen,2015-04-06,31,M,W,Jefferson County,ID
+319,Erick Rose,2015-04-07,32,M,W,Pottawatomie County,OK
+329,Douglas Faith,2015-04-08,60,M,W,San Antonio,TX
+330,Dexter Pernell Bethea,2015-04-08,42,M,B,Valdosta,GA
+331,Roberto Rodriguez,2015-04-08,39,M,H,Los Angeles,CA
+359,Joseph Jeremy Weber,2015-04-08,28,M,A,Sunnyvale,CA
+534,Mark Smith,2015-04-09,54,M,,Kellyville,OK
+332,Gordon Kimbrell,2015-04-09,22,M,W,Navarre,FL
+333,Don Smith,2015-04-09,29,M,B,Monon,IN
+340,Jess Leipold,2015-04-09,31,M,W,Straban Township,PA
+343,Phillip Burgess,2015-04-09,28,M,W,Boiling Springs,SC
+335,Angel Cresencio Corona,2015-04-10,21,M,H,Corning,CA
+377,Richard Reed,2015-04-10,38,M,W,Topeka,KS
+358,Donald Allen,2015-04-11,66,M,W,Sand Springs,OK
+355,Mack Long,2015-04-12,36,M,B,Indianapolis,IN
+357,Richard Dale Weaver,2015-04-12,83,M,W,Oklahoma City,OK
+362,Jason Lee Evans,2015-04-12,32,M,W,Salemburg,NC
+356,Isaac Jimenez,2015-04-13,27,M,H,Alton,IL
+363,Colby Robinson,2015-04-14,26,M,B,DeSoto,TX
+364,Christopher Grant Finley,2015-04-14,31,M,W,Jonesboro,AR
+365,Tevin Barkley,2015-04-15,22,M,B,Miami,FL
+366,Dante Noble,2015-04-15,41,M,B,Spartanburg,SC
+367,Frank Shephard,2015-04-15,41,M,B,Houston,TX
+368,Mark W. Adair,2015-04-15,51,M,W,Columbia,MO
+369,Stanley Watson,2015-04-15,72,M,W,Cañon City,CO
+374,Ernesto Flores,2015-04-15,52,M,H,Montclair,CA
+373,Rodolfo Velazquez,2015-04-16,47,M,H,Shafter,CA
+380,Jeffrey Kemp,2015-04-17,18,M,B,Chicago,IL
+381,Elias Cavazos,2015-04-17,29,M,H,Hemet,CA
+382,Thaddeus McCarroll,2015-04-17,23,M,B,Jennings,MO
+376,Erik Tellez,2015-04-18,43,M,H,Phoenix,AZ
+379,Grover Sapp,2015-04-18,45,M,W,Panama City,FL
+378,Michael Foster,2015-04-19,40,M,W,Wilmore,KY
+383,Dana Hlavinka,2015-04-19,44,M,W,Sidney,NE
+399,Santos Cortez Hernandez,2015-04-20,25,M,H,Mission,TX
+537,Daniel Wolfe,2015-04-21,35,M,B,Trenton,NJ
+393,Daniel Covarrubias,2015-04-21,37,M,N,Lakewood,WA
+398,Kimber Key,2015-04-21,59,M,W,Irmo,SC
+495,Luis Martinez,2015-04-21,35,M,H,Los Angeles,CA
+391,William Chapman,2015-04-22,18,M,B,Portsmouth,VA
+394,Carlos Saavedra Ramirez,2015-04-22,51,M,H,Bisbee,AZ
+395,Jonathan Efraim,2015-04-22,30,M,W,Queens,NY
+396,Reginald McGregor,2015-04-22,31,M,B,Fort Worth,TX
+397,Lue Vang,2015-04-22,39,M,A,Eldorado Springs,CO
+392,Andrew Valadez,2015-04-23,26,M,W,Sylmar,CA
+400,Joseph Potts,2015-04-23,51,M,W,Rufe,OK
+409,Hector Morejon,2015-04-23,19,M,H,Long Beach,CA
+401,Karen Janks,2015-04-24,46,F,W,Windsor,CA
+402,Mark Cecil Hawkins,2015-04-24,49,M,W,Eugene,OR
+403,Gary Timmie  Collins,2015-04-24,63,M,W,Miami,OK
+412,Todd Jamal Dye,2015-04-24,20,M,B,Trinidad,CO
+408,Brandon Lawrence,2015-04-25,25,M,W,Victoria,TX
+411,David Felix,2015-04-25,24,M,B,New York,NY
+414,Daniel Davis,2015-04-25,58,M,W,Clermont,FL
+404,Billy Joe Patrick,2015-04-26,29,M,W,Bunch,OK
+406,Albert Hanson,2015-04-26,76,M,W,Kings County,CA
+407,Dean Genova,2015-04-26,45,M,W,Fountain Valley,CA
+405,Terrance  Kellom,2015-04-27,20,M,B,Detroit,MI
+413,David Parker,2015-04-28,58,M,W,Mansfield,OH
+417,Jared Johnson,2015-04-28,21,M,B,New Orleans,LA
+420,Joshua Green,2015-04-28,27,M,W,Marion,IL
+415,Andrew Jackson,2015-04-29,26,M,W,Chickasha,OK
+416,Joshua Deysie,2015-04-29,33,M,H,Mesa,AZ
+419,Luis Chavez-Diaz,2015-04-29,27,M,H,Elk Grove,CA
+421,Alexia Christian,2015-04-29,25,F,B,Atlanta,GA
+422,Jeffrey Adkins,2015-04-29,53,M,B,Emporia,VA
+423,John Acree,2015-04-29,53,M,W,Nashville,TN
+418,Fridoon Zalbeg Nehad,2015-04-30,42,M,O,San Diego,CA
+424,Erick Emmanuel Sanchez,2015-04-30,22,M,H,El Paso,TX
+425,Kenneth Mathena,2015-05-02,52,M,W,Smyrna,DE
+426,Kevin Vance Norton,2015-05-03,36,M,W,Roosevelt,UT
+427,Elton Simpson,2015-05-03,30,M,B,Garland,TX
+428,Nadir Soofi,2015-05-03,34,M,O,Garland,TX
+445,Billy Grimm,2015-05-03,44,M,H,Albuquerque,NM
+447,Michael Asher,2015-05-03,53,M,W,Chavies,KY
+431,Roark Cook,2015-05-04,36,M,W,Kennewick,WA
+429,Brendon Glenn,2015-05-05,29,M,B,Venice,CA
+430,Thong Kien Ma,2015-05-05,32,M,A,South El Monte,CA
+434,Robert A. Frost,2015-05-05,46,M,W,Pulaski,VA
+432,David William Johnson,2015-05-06,18,M,W,Wake Forest,NC
+433,Joseph Roy,2015-05-07,72,M,,Lawrenceville,GA
+435,Michael Murphy,2015-05-07,38,M,W,Beacon,NY
+436,Nephi Arriguin,2015-05-07,21,M,B,Cerritos,CA
+439,Shaun Johnson,2015-05-08,35,M,W,Kearny,AZ
+443,David Schwalm,2015-05-08,58,M,W,Constantia,NY
+451,Dedrick Marshall,2015-05-08,48,M,B,Harvey,LA
+454,Sam Holmes,2015-05-08,31,M,B,Fridley,MN
+453,Stephen  Cunningham,2015-05-10,47,M,W,Tacoma,WA
+455,Lionel Lorenzo Young,2015-05-10,34,M,B,Landover,MD
+437,Kelvin Goldston,2015-05-11,30,M,B,Fort Worth,TX
+444,Justin Way,2015-05-11,28,M,W,St. Augustine,FL
+441,D'Angelo Stallworth,2015-05-12,28,M,B,Jacksonville,FL
+449,Bruce Zalonka,2015-05-12,46,M,O,Honolulu,HI
+450,Alec Ouzounian,2015-05-12,40,M,W,Rancho Santa Margarita,CA
+456,Sean Michael Pelletier,2015-05-14,37,M,W,Portage,MI
+470,Cary Martin,2015-05-14,53,M,W,St. Augustine,FL
+460,Mark Farrar,2015-05-15,41,M,W,Rockford,IL
+462,Matt Coates,2015-05-15,42,M,W,Sacramento,CA
+463,Ronell Wade,2015-05-16,45,M,B,Harvey,IL
+458,Dennis  Fiel,2015-05-17,34,M,W,San Diego,CA
+459,Austin Goodner,2015-05-17,18,M,W,St. Petersburg,FL
+461,Timothy Jones,2015-05-17,27,M,W,Ruidoso,NM
+457,Alfredo Rials-Torres,2015-05-19,54,M,H,Arlington,VA
+464,Jonathan McIntosh,2015-05-19,35,M,W,Cabot,AR
+465,David  Gaines,2015-05-19,17,M,W,Grand Junction,CO
+466,Anthony Gomez,2015-05-20,29,M,B,Lancaster,PA
+467,Jonathan  Colley,2015-05-20,52,M,W,Green,OH
+468,Chrislon Talbott,2015-05-20,38,M,B,Owensboro,KY
+486,Nikki Jo Burtsfield,2015-05-20,39,F,W,Gillette,WY
+489,Marcus Wheeler,2015-05-20,26,M,B,Omaha,NE
+469,David Alejandro Gandara,2015-05-21,22,M,H,El Paso,TX
+483,Javoris Washington,2015-05-21,29,M,B,Ft. Lauderdale,FL
+484,James Anthony Cooper,2015-05-21,43,M,W,North Charleston,SC
+485,Elvin Diaz,2015-05-21,24,M,H,Hackensack,NJ
+487,Jerome Caldwell,2015-05-21,32,M,B,Charleston,SC
+472,Michael Lowery,2015-05-22,40,M,W,Somerset,PA
+529,Caso Jackson,2015-05-23,25,M,B,Detroit,MI
+473,James Horn,2015-05-23,47,M,W,Sedalia,MO
+474,Eric Robinson,2015-05-23,40,M,W,Eagar,AZ
+475,Cassandra Bolin,2015-05-25,31,F,W,Austin,TX
+476,Anthony Briggs,2015-05-25,36,M,B,Huntsville,AL
+530,Millard Tallant III,2015-05-26,62,M,W,Snohomish,WA
+477,Dalton Branch,2015-05-26,51,M,B,Queens,NY
+479,Jessie  Williams,2015-05-26,24,M,W,Bossier City,LA
+480,Scott McAllister,2015-05-27,39,M,W,Ideal Beach,NJ
+481,Garrett  Sandeno,2015-05-27,24,M,W,Edmond,OK
+482,Harry Davis,2015-05-27,57,M,W,Rockville,GA
+491,Feras Morad,2015-05-27,20,M,O,Long Beach,CA
+492,Simon Hubble,2015-05-27,33,M,W,Alpine,CA
+488,Darrell Morgan,2015-05-28,60,M,W,Lancaster,SC
+490,James Strong,2015-05-28,32,M,B,Northglenn,CO
+493,Kenneth Dothard,2015-05-28,40,M,B,Carrollton,GA
+494,Kyle Baker,2015-05-28,18,M,W,Trenton,MI
+497,Kevin Allen,2015-05-29,36,M,B,Lyndhurst,NJ
+498,Nehemiah Fischer,2015-05-29,35,M,W,Okmulgee County,OK
+499,Robert Box,2015-05-29,55,M,W,Wilderville,OR
+500,Ebin Lamont Proctor,2015-05-30,19,M,W,Cottonwood,AZ
+501,Alexander Tirado Rivera,2015-05-30,39,M,H,Nashville,TN
+503,James Anthony Morris,2015-05-31,40,M,,Medford,OR
+504,James Bushey,2015-05-31,47,M,W,Palestine,TX
+505,Joseph Ladd,2015-06-01,23,M,W,Greece,NY
+507,Usaamah Rahim,2015-06-02,26,M,B,Roslindale,MA
+508,Kamal Dajani,2015-06-02,26,M,W,Azle,TX
+512,Lorenzo Garza,2015-06-03,46,M,H,Delano,CA
+513,Rudy Baca,2015-06-03,36,M,H,Los Lunas,NM
+509,Miguel Martinez,2015-06-03,18,M,H,Ellis County,TX
+510,Edelmiro Hernandez,2015-06-03,33,M,H,Fuqua,TX
+511,Ronald Neal,2015-06-03,56,M,W,Byram,NJ
+520,Jesus Quezada Gomez,2015-06-05,50,M,H,Santa Maria,CA
+521,Christie Cathers,2015-06-05,45,F,W,Morgantown,WV
+515,Demouria Hogg,2015-06-06,30,M,B,Oakland,CA
+516,James Smillie,2015-06-06,53,M,W,North Port,FL
+518,Alejandro Campos Fernandez,2015-06-06,45,M,H,Watsonsville,CA
+519,Joe Nevels,2015-06-06,42,M,W,Midland,TX
+522,Damien Ramirez,2015-06-06,27,M,H,Strasburg,CO
+514,Matthew Wayne McDaniel,2015-06-07,36,M,W,Melbourne,FL
+517,Gene Marshall,2015-06-07,58,M,W,Woodland,WA
+523,James Johnson,2015-06-08,54,M,,Beech Grove,IN
+524,Rene Garcia,2015-06-08,30,M,H,Anaheim,CA
+526,Richard Warolf,2015-06-08,69,M,W,Sun City,AZ
+525,Jeremy Linhart,2015-06-09,30,M,W,Findlay,OH
+535,Greg  Hartley,2015-06-09,45,M,W,Tomball,TX
+538,QuanDavier Hicks,2015-06-09,22,M,B,Cincinnati,OH
+539,Ryan Bolinger,2015-06-09,28,M,W,Des Moines,IA
+540,Isiah Hampton,2015-06-10,19,M,B,Bronx,NY
+541,Charles Ziegler,2015-06-11,40,M,B,Pompano Beach,FL
+542,Raymond  Phillips,2015-06-11,86,M,,Columbia,TN
+543,Fritz Severe,2015-06-11,46,M,B,Miami,FL
+544,Mark Flores,2015-06-11,28,M,H,Bexar County,TX
+545,Raymond Peralta-Lantigua,2015-06-11,22,M,H,Hackensack,NJ
+553,Shelly Haendiges,2015-06-12,17,F,W,Kokomo,IN
+546,Anthony Hodge,2015-06-13,46,M,W,Fort Wayne,IN
+548,Deng Manyoun,2015-06-13,35,M,B,Louisville,KY
+549,James Boulware,2015-06-13,35,M,W,Hutchins,TX
+547,Kenneth Garcia,2015-06-14,28,M,H,Stockton,CA
+551,Zane Terryn,2015-06-14,15,M,W,Cocoa,FL
+550,Kris Jackson,2015-06-15,22,M,B,South Lake Tahoe,CA
+559,Christopher DeLeon,2015-06-16,28,M,H,Visalia,CA
+563,Joe Charboneau,2015-06-16,31,M,N,Wood Lake,ND
+557,Wendy Chappell,2015-06-17,40,F,W,Clanton,AL
+561,Kenneth Lanphier,2015-06-17,48,M,W,Hobbs,NM
+564,Oleg Tcherniak,2015-06-18,58,M,W,Coney Island,NY
+558,Santos Laboy,2015-06-19,44,M,H,Boston,MA
+560,Trepierre Hummons,2015-06-19,21,M,B,Cincinnati,OH
+565,Louis Atencio,2015-06-19,50,M,H,Greeley,CO
+582,Alfontish Cockerham,2015-06-20,23,M,B,Chicago,IL
+555,Adrian Simental,2015-06-21,24,M,H,Azusa,CA
+556,Charles  Marshall,2015-06-21,49,M,W,Houston,TX
+566,James Monroe Barrett,2015-06-22,60,M,W,Ronda,NC
+570,Eduardo Reyes,2015-06-22,35,M,H,Citrus Heights,CA
+573,Tyler Wicks,2015-06-22,29,M,W,Augusta,GA
+576,Tyrone Harris,2015-06-22,20,M,B,Pittsburgh,PA
+572,Joshua Dyer,2015-06-23,34,M,W,Indianapolis,IN
+574,Jonathan Wilson,2015-06-23,22,M,W,Hutchinson,KS
+575,Randall Waddel,2015-06-23,49,M,W,Weatherford,TX
+726,Taylor Culbertson,2015-06-23,32,M,W,Omaha,NE
+569,Damien A. Harrell,2015-06-24,26,M,B,York County,VA
+567,Spencer McCain,2015-06-25,41,M,B,Owings Mills,MD
+568,Gilbert Jake Vanderburgh,2015-06-25,61,M,W,Fresno,CA
+579,Richard Matt,2015-06-26,49,M,W,Malone,NY
+583,Joe Angel Cisneros,2015-06-26,28,M,H,San Antonio,TX
+580,Joshua Crittenden,2015-06-27,35,M,W,Tahlequah,OK
+577,Alan  Bellew,2015-06-28,29,M,W,Portland,OR
+585,Richard LaPort,2015-06-29,51,M,W,Edinburg,NY
+586,Clay Alan  Lickteig,2015-06-30,52,M,W,Franklin,NC
+587,Kevin Lamont Judson,2015-07-01,24,M,B,McMinnville,OR
+589,Kaleb Landon,2015-07-01,32,M,W,Josephine County,OR
+588,Douglas Buckley,2015-07-02,45,M,W,Brockton,MA
+601,Ton Nguyen,2015-07-02,60,M,A,San Diego,CA
+603,Victor Emanuel Larosa,2015-07-02,23,M,B,Jacksonville,FL
+604,Brian Johnson,2015-07-02,59,M,,Meadow Bridge,WV
+597,Cesar A. Limon Juarez,2015-07-03,27,M,H,West Covina,CA
+598,Arturo Lopez,2015-07-03,46,M,H,Lancaster,CA
+599,Oscar Camacho,2015-07-03,33,M,H,Camden,NJ
+602,Joseph Julian,2015-07-03,40,M,W,Miami Beach,FL
+591,Robert Elando Malone,2015-07-04,42,M,B,Oklahoma City,OK
+595,Michael Shannon Gaby,2015-07-04,37,M,W,Morristown,TN
+596,Kawanza Beaty,2015-07-04,23,M,B,Newport News,VA
+600,Bryan David Bauer,2015-07-04,36,M,W,Henderson,NV
+592,John Deming,2015-07-05,19,M,W,Pleasanton,CA
+593,Michael Holt,2015-07-05,35,M,W,Austin,TX
+594,Richard Munroe,2015-07-05,25,M,W,Austin,TX
+605,Johnny Ray Anderson,2015-07-05,43,M,W,Hawaiian Gardens,CA
+590,Tyler Rogers,2015-07-06,20,M,W,Oklahoma City,OK
+606,Hagen Esty-Lennon,2015-07-06,42,M,W,Bath,NH
+607,David Oliva Sarabia,2015-07-06,42,M,H,Atwater,CA
+610,John Leonard Berry,2015-07-06,31,M,W,Lakewood,CA
+619,Jason Hendley,2015-07-06,29,M,B,Los Angeles,CA
+608,Marcellus Jamarcus Burley,2015-07-07,18,M,B,Houston,TX
+609,Adam Dujanovic,2015-07-07,33,M,W,Mesa,AZ
+611,Joe Cody,2015-07-07,59,M,W,Dallas,TX
+614,Daniel Hernandez,2015-07-07,47,M,H,Bakersfield,CA
+615,Jose Graciano Lopez,2015-07-07,39,M,H,Edinburg,TX
+616,Tremaine Dantzler,2015-07-07,37,M,B,Atlantic City,NJ
+617,Nicholas Booth,2015-07-07,35,M,W,Sugar Creek,MO
+618,Joshua Blough,2015-07-07,28,M,W,Elizabethtown,KY
+620,Michael Terence Westrich,2015-07-08,59,M,W,Beaverton,OR
+621,Dallas Shatley,2015-07-08,62,M,W,Ashe County,NC
+622,Rocco Joseph Palmisano,2015-07-09,50,M,W,Parowan,UT
+623,Robert Hammonds,2015-07-09,68,M,W,Phoenix,AZ
+624,Martice Milliner,2015-07-09,27,M,B,Chicago,IL
+625,Cyrus Hurtado,2015-07-09,17,M,W,Boulder Creek,CA
+627,Neil White,2015-07-09,38,M,W,Los Angeles,CA
+634,Javon Hawkins,2015-07-09,21,M,B,Kansas City,MO
+626,James Michael Todora,2015-07-10,54,M,W,Las Vegas,NV
+630,Freddie Blue,2015-07-10,20,M,B,Covington,GA
+1152,Eugene McSwain,2015-07-10,25,M,B,Chicago,IL
+637,Billy Maine,2015-07-11,31,M,W,Olivehurst,CA
+628,Paul Castaway,2015-07-12,35,M,N,Denver,CO
+631,Salvado Ellswood,2015-07-12,36,M,B,Plantation,FL
+632,David Lepine,2015-07-12,60,M,W,Austin,TX
+633,Matthew Watson,2015-07-12,24,M,W,River Forest,IL
+636,Christopher Benton,2015-07-12,27,M,W,Casper,WY
+629,Frederick Farmer,2015-07-13,20,M,B,Stone Mountain,GA
+635,Matthew Ryan Graham,2015-07-13,24,M,W,Dunsmuir,CA
+638,Rafael Suazo,2015-07-13,23,M,H,Lynn,MA
+645,Jason Davis,2015-07-13,41,M,W,Los Angeles,CA
+639,Chacarion Avant,2015-07-14,20,M,B,Mascotte,FL
+641,Charles Crandall,2015-07-14,76,M,,Southington,OH
+643,Eugene Kailing,2015-07-15,43,M,W,Marion,MI
+642,Anthonie Smith,2015-07-16,25,M,B,Moreno Valley,CA
+646,Antonio Gonzalez,2015-07-16,29,M,H,Wauwatosa,WI
+647,Edward Foster III,2015-07-16,35,M,B,Homestead,FL
+648,Patrick Stephen Pippin,2015-07-16,30,M,W,Kansas City,KS
+649,Mohammad Youssef Abdulazeez,2015-07-16,24,M,O,Chattanooga,TN
+656,Saige Hack,2015-07-16,23,M,N,Cheyenne,WY
+664,Pierre Gabriel Koellner,2015-07-16,29,M,W,Opp,AL
+644,Samuel Smith,2015-07-17,27,M,W,Seattle,WA
+651,Albert Joseph Davis,2015-07-17,23,M,B,Orlando,FL
+655,Jackie Brand,2015-07-17,50,M,W,Needles,CA
+657,Darrius Stewart,2015-07-17,19,M,B,Memphis,TN
+660,Jose Roman Rodriguez,2015-07-17,24,M,H,Brownsville,TX
+650,David  Wheat Jr.,2015-07-18,22,M,W,Fort Collins,CO
+652,Kevin Thomas Snyder,2015-07-18,46,M,W,Phoenix,AZ
+654,Charles Edward Dewey,2015-07-18,65,M,W,Colby,KS
+653,Samuel DuBose,2015-07-19,43,M,B,Mt. Auburn,OH
+658,Joshua LeBoeuf,2015-07-20,35,M,W,Winnie,TX
+759,Troy Francis,2015-07-20,54,M,,Fremont,CA
+661,Darren Billy Wilson,2015-07-21,47,M,W,White,GA
+662,Joseph Fuller,2015-07-21,24,M,W,Oakland Park,FL
+663,Jerrod Tyre,2015-07-21,35,M,W,Jesup,GA
+666,Francisco Benitez-Santiago,2015-07-22,25,M,H,Monroe,WI
+667,Andre Dontrell Williams,2015-07-22,26,M,B,Oklahoma City,OK
+669,Devon Guisherd,2015-07-22,27,M,B,Philadelphia,PA
+668,Dontae L. Martin,2015-07-23,34,M,B,Dayton,OH
+670,Derek Wolfsteller,2015-07-23,31,M,W,Plymouth,MN
+671,Brian Stortzum,2015-07-23,32,M,W,Myrtle Beach,SC
+672,Robbie Lee Edison,2015-07-23,47,M,W,Douglas,WY
+673,Tamala Satre,2015-07-23,44,F,W,Meadow Vista,CA
+674,Seth Raines,2015-07-24,44,M,W,Studio City,CA
+675,Lee Aaron Gerston,2015-07-24,30,M,W,Pinnacle,NC
+676,Christopher Olmstead,2015-07-25,60,M,W,New Orleans,LA
+677,Roger Braswell,2015-07-25,50,M,W,Decatur,GA
+678,Bryan Keith  Day,2015-07-25,36,M,B,Las Vegas,NV
+685,Earl Jackson,2015-07-25,59,M,B,Micanopy,FL
+679,Khari Westly,2015-07-26,33,M,B,Shreveport,LA
+680,Zachary Hammond,2015-07-26,19,M,W,Seneca,SC
+681,Timothy Milliken,2015-07-27,56,M,W,Irmo,SC
+682,Jean Paul Falgout,2015-07-27,45,M,W,Houma,LA
+683,Samuel Forgy,2015-07-27,22,M,W,Boulder,CO
+684,Timothy Johnson,2015-07-28,41,M,,Manila,AR
+686,Michael Malone,2015-07-29,34,M,H,Las Cruces,NM
+687,Roger Darrin Barker,2015-07-29,53,M,W,Logan,UT
+688,Mark Perkins,2015-07-30,48,M,W,Gardnerville Ranchos,NV
+689,Ryan Daniel Vrenon,2015-07-30,25,M,W,Dunsmuir,CA
+690,Philip Vallejo,2015-07-30,30,M,H,Fort Worth,TX
+691,Oscar Lotari Romero,2015-07-30,47,M,H,Whittier,CA
+692,Rafael Molina,2015-07-31,33,M,H,Albuquerque,NM
+693,Jeremy  Hatch,2015-07-31,34,M,W,Roswell,NM
+694,David  Cook,2015-08-01,52,M,,Nitro,WV
+696,Armando Serrano,2015-08-01,29,M,H,Tucson,AZ
+695,Virgil Reynolds,2015-08-02,63,M,W,Houston,TX
+697,Antonio Clements,2015-08-03,49,M,B,Oakland,CA
+698,Joshua Malave,2015-08-03,18,M,W,Campbelltown,PA
+699,Franklin Short,2015-08-03,71,M,W,Powhatan County,VA
+700,Shawn Ruble,2015-08-03,35,M,W,Muncie,IN
+701,Daniel Robert Avila,2015-08-04,55,M,H,San Diego County,CA
+702,Darius D. Graves,2015-08-04,31,M,B,Rantoul,IL
+703,Tyler Alexander Dattilo,2015-08-05,18,M,W,Louisville,KY
+704,John Dieringer,2015-08-05,51,M,W,Greenfield,WI
+705,Raymond Hodge,2015-08-05,39,M,B,Maui,HI
+706,Keshawn Dominique Hargrove,2015-08-05,20,M,B,Richmond,VA
+707,Vincente Montano,2015-08-05,29,M,W,Antioch,TN
+708,Jason Galaviz,2015-08-05,40,M,W,Tacoma,WA
+710,Gustavo Ponce-Galon,2015-08-06,42,M,H,Elsmere,KY
+737,Charles Bertram,2015-08-06,22,M,B,El Paso,TX
+711,Christian Taylor,2015-08-07,19,M,B,Arlington,TX
+712,Abel Correa,2015-08-07,24,M,H,Las Vegas,NV
+713,Aaron Marchese,2015-08-07,30,M,W,Fresno,CA
+718,Mark Keckhafer,2015-08-07,53,M,W,Superior,MT
+720,Tsombe Clark,2015-08-07,25,M,B,Greenville,NC
+721,Derrick Lee Hunt,2015-08-07,28,M,B,Long Beach,CA
+716,Roderick Burr,2015-08-08,33,M,,Brookshire,TX
+719,Shamir Terrel Palmer,2015-08-08,24,M,B,Summerville,SC
+722,Jeffrey Clyde Wilkes,2015-08-08,59,M,W,Gastonia,NC
+723,Kevin McDaniel,2015-08-08,46,M,W,Spokane,WA
+715,Andre Green,2015-08-09,15,M,B,Indianapolis,IN
+717,Eric Tompkins,2015-08-09,41,M,W,Ardmore,OK
+724,Robert Patrick Quinn,2015-08-09,77,M,,Pittston,PA
+727,Edrian Rivera,2015-08-09,22,M,H,San Jose,CA
+725,Richard Tyler Young,2015-08-10,24,M,W,Gilbert,AZ
+728,Casey George Alarcon,2015-08-11,34,M,W,Sandpoint,ID
+730,Randall Lance Hughes,2015-08-11,48,M,W,Waco,TX
+729,Richard Dean Shull Jr.,2015-08-12,24,M,W,Odessa,TX
+731,Nathaniel Wilks,2015-08-12,27,M,B,Oakland,CA
+732,Redel Jones,2015-08-12,30,F,B,Los Angeles,CA
+733,Anthony Lorenzo Vallejo,2015-08-12,27,M,H,Hemet,CA
+735,Reginald Marshall,2015-08-12,27,M,B,Toledo,OH
+736,William Smith,2015-08-12,49,M,W,Hobbs,NM
+738,Garland Tyree,2015-08-14,38,M,B,Staten Island,NY
+739,Hector Rene Sorriano Gonzalez,2015-08-14,26,M,H,Boerne,TX
+740,Asshams Pharoah Manley,2015-08-14,30,M,B,District Heights,MD
+750,Christopher Anderson,2015-08-14,53,M,W,Bolton,CT
+741,John Unsworth,2015-08-15,43,M,W,Hanover,IN
+742,Allen Matthew Baker,2015-08-15,23,M,B,Sunnyvale,CA
+743,Benjamin Peter Ashley,2015-08-15,34,M,B,Inyokern,CA
+744,Jonathon  Pope,2015-08-15,30,M,W,Carson City,NV
+745,Matthew Castillo,2015-08-16,29,M,H,San Jose,CA
+746,Steven B. Norton,2015-08-16,47,M,W,Kerrville,TX
+748,Frederick Roy,2015-08-17,35,M,B,Houston,TX
+749,Richard Jacquez,2015-08-17,40,M,H,San Jose,CA
+751,Mansur Ball-Bey,2015-08-19,18,M,B,St. Louis,MO
+752,Deviere Ernel Ransom,2015-08-19,24,M,B,Bloomfield Township,MI
+753,Jason Hale,2015-08-19,29,M,W,Hunters,WA
+754,Wade Allen Baker,2015-08-19,44,M,W,Canton,NC
+881,Tyler Gerken,2015-08-20,19,M,W,Beverly,OH
+755,Jeffory Ray Tevis,2015-08-20,50,M,W,Tuscaloosa,AL
+756,Raul Herrera,2015-08-20,17,M,H,Ontario,CA
+758,Timmy Walling,2015-08-21,57,M,W,Grapeview,WA
+760,Charles S. Hall,2015-08-21,30,M,W,North East,MD
+761,Alan Joseph Rushton,2015-08-21,38,M,W,Wake Forest,NC
+762,Adam Schneider,2015-08-22,31,M,W,Cohasset,MN
+763,Thaddeus Faison,2015-08-22,39,M,B,Troy,NY
+764,Jason Lee Alderman,2015-08-22,29,M,W,Bakersfield,CA
+765,Nicholas Garner,2015-08-22,26,M,W,Wichita,KS
+766,Kenneth Henry Morgan,2015-08-22,64,M,W,King George,VA
+768,Richard Francis Compo,2015-08-23,36,M,W,Jacksonville,FL
+769,Christopher Ray Tompkins,2015-08-23,36,M,W,Arab,AL
+771,Julian Hoffman,2015-08-23,21,M,W,Brick Township,NJ
+772,Bobby Troledge Norris,2015-08-23,53,M,B,Archdale,NC
+767,William Lee Snider,2015-08-23,57,M,W,Las Vegas,NV
+770,Marvin Maestas,2015-08-25,30,M,H,Santa Fe,NM
+773,Curtis Smith,2015-08-25,34,M,B,West Chester,PA
+774,Todd Tomlinson,2015-08-25,53,M,W,Thonotosassa,FL
+775,Shane Rudolph,2015-08-25,45,M,W,Phoenix,AZ
+779,Marvin Arroliga,2015-08-25,22,M,H,Miami,FL
+776,Steven Dodd,2015-08-26,22,M,W,Hendersonville,TN
+777,Brent Pickard,2015-08-26,46,M,W,Chattanooga,TN
+780,Kyle Lambrose,2015-08-26,27,M,W,West Jordan,UT
+781,Bertrand Davis,2015-08-27,42,M,B,Dallas,TX
+782,Yonas Alehegne,2015-08-27,30,M,B,Oakland,CA
+783,Robert Hober,2015-08-27,54,M,W,San Diego,CA
+784,Manuel Soriano,2015-08-27,29,M,H,Los Angeles,CA
+785,Gilbert Flores,2015-08-28,41,M,H,San Antonio,TX
+786,William Evans,2015-08-28,28,M,W,Spanish Fork,UT
+788,Felix Kumi,2015-08-28,61,M,B,Mount Vernon,NY
+793,Devin Brian Dial,2015-08-28,23,M,W,Longview,TX
+787,James Marcus Brown,2015-08-29,25,M,B,North Las Vegas,NV
+789,Roger Albrecht,2015-08-29,,M,W,San Antonio,TX
+795,Rafael Cruz Jr,2015-08-29,29,M,H,Chicago,IL
+790,Shawn Hall,2015-08-30,20,M,W,Cushing,OK
+791,David M.  Leon,2015-08-30,40,M,H,Tucson,AZ
+792,William Rippley,2015-08-31,45,M,W,Loveland,CO
+794,Cedric Maurice Williams,2015-09-01,33,M,B,Bluefield,WV
+797,Charles Robert Shaw,2015-09-01,76,M,W,Twinsburg,OH
+798,Michael Todd Evans,2015-09-01,47,M,W,Artesia,NM
+799,Arthur Bates,2015-09-02,45,M,W,Prescott,AZ
+1409,Freddy Centeno,2015-09-03,40,M,H,Fresno,CA
+800,Curtis James Meyer,2015-09-04,37,M,W,Mitchell,SD
+801,Jose Ramon Damiani Jr,2015-09-04,49,M,H,French Lick,IN
+802,Richard Keith Kelley,2015-09-04,27,M,W,Weitchpec,CA
+803,Sully Lanier,2015-09-04,36,M,W,Springtown,TX
+804,Harrison Lambert,2015-09-04,23,M,W,Merrimack,NH
+805,La'vante Trevon Biggs,2015-09-05,21,M,B,Durham,NC
+806,Luis Wenceslao,2015-09-05,32,M,H,Ontario,CA
+807,Angelo Delano Perry,2015-09-05,35,M,B,Virginia Beach,VA
+808,India Kager,2015-09-05,28,F,B,Virginia Beach,VA
+809,Carlos Yero,2015-09-06,59,M,H,Little Havana,FL
+810,Mohamed Ibrahim,2015-09-06,28,M,B,Shreveport,LA
+811,William Verrett,2015-09-06,45,M,W,Hobbs,NM
+813,Casimero Carlos Casillas,2015-09-07,45,M,H,Fresno,CA
+836,Tristan Vent,2015-09-08,19,M,N,Fairbanks,AK
+812,Dustin Kuik,2015-09-09,25,M,W,Ashwaubenon,WI
+815,Tyrone Holman,2015-09-09,37,M,B,Kansas City,MO
+816,Vincent J. Perdue,2015-09-09,33,M,N,Fairbanks,AK
+879,William Chau,2015-09-09,59,M,A,El Monte,CA
+817,Tian Ma,2015-09-10,31,M,A,Potsdam,NY
+818,Bruce Santino,2015-09-10,35,M,,Fontana,CA
+819,Brandon Foy,2015-09-10,29,M,B,Indianapolis,IN
+820,Austin Wilburly  Reid,2015-09-10,32,M,W,Lodi,CA
+823,Eddie Tapia,2015-09-10,41,M,H,Downey,CA
+824,Robert T. Edwards,2015-09-11,31,M,W,Chester,PA
+831,Phillip Pfleghardt,2015-09-11,44,M,W,Broomfield,CO
+822,Derick Davis,2015-09-12,23,M,W,Sylacauga,AL
+878,Jack Stevens Jr.,2015-09-12,45,M,W,West Knox,TN
+821,Martin Francis Hammen,2015-09-13,39,M,W,Wellman,IA
+825,Clifford Butler,2015-09-13,67,M,B,McAlester,OK
+827,Jeffrey Eugene Brooks,2015-09-13,29,M,W,Clute,TX
+828,Joseph Thompson Johnson-Shanks,2015-09-14,25,M,B,Princeton,KY
+829,David Todd Powell,2015-09-14,28,M,W,Barstow,CA
+830,Tyrone Bass,2015-09-15,21,M,B,Chalmette,LA
+832,Florencio Chaidez,2015-09-15,32,M,H,Panorama City,CA
+833,Jorge  Suarez-Ruiz,2015-09-15,51,M,H,Miami,FL
+834,Carlos Wilhelm,2015-09-15,39,M,H,Los Angeles,CA
+837,Bobby R. Anderson,2015-09-15,27,M,B,Alexandria,LA
+835,Rory Lynn Gunderman,2015-09-16,31,M,W,Lead,SD
+838,Mark Gary,2015-09-17,50,M,W,Beaverton,MI
+839,Lawrence Price,2015-09-17,,M,W,Brodhead,KY
+843,Nicholas Alan Johnson,2015-09-18,32,M,W,San Bernardino,CA
+844,Gregory Herrell,2015-09-18,47,M,W,Dickson,TN
+842,Lucien Rolland,2015-09-19,46,M,W,Slidell,LA
+846,Scott Beech,2015-09-19,57,M,W,Washington County,AL
+845,Michael Thomas Pierce,2015-09-20,23,M,W,Harrisonburg,VA
+847,Jerrald Wright,2015-09-20,56,M,W,Shelbyville,IN
+840,Gerardo Ramirez,2015-09-21,24,M,H,Dallas,TX
+848,William Spaits,2015-09-21,27,M,W,Sand City,CA
+849,Tina Money,2015-09-21,23,F,W,Sand City,CA
+850,Steven McKenny,2015-09-21,21,M,W,Paris,TX
+851,Timothy Wagner,2015-09-21,26,M,W,Barberville,FL
+852,Dominic Fuller,2015-09-21,34,M,H,Auburndale,FL
+853,Dante Osborne,2015-09-22,32,M,B,Oakland,CA
+854,Joel Dixon Smith,2015-09-22,33,M,W,Niceville,FL
+855,Tim Kyle Torngren,2015-09-22,55,M,W,Happy Valley,CA
+856,Donaven Kyle Anderson,2015-09-22,26,M,,North Las Vegas,NV
+857,Robert Berger,2015-09-23,48,M,O,Salt Lake City,UT
+858,Joseph Khammash,2015-09-23,35,M,W,McKinney,TX
+859,Keith Harrison McLeod,2015-09-23,19,M,B,Reisterstown,MD
+861,Kenneth Ray Pinter,2015-09-23,45,M,W,Grayson County,VA
+862,Jeremy McDole,2015-09-23,28,M,B,Wilmington,DE
+860,Ernesto Medina Lopez,2015-09-24,42,M,H,Miami,FL
+863,Patrick O'Grady,2015-09-24,17,M,W,Fountain,CO
+865,Philip Quinn,2015-09-24,30,M,O,St. Paul,MN
+866,William Lemmon,2015-09-25,21,M,W,Akron,OH
+867,James Anderson,2015-09-25,33,M,B,Chicago,IL
+868,Jeffrey Blood,2015-09-25,45,M,W,Wilhoit,AZ
+869,Anthony McKinney,2015-09-26,46,M,B,Baton Rouge,LA
+870,Alejandro Lerma,2015-09-26,23,M,H,Lovington,NM
+871,Norma Angelica Guzman,2015-09-27,37,F,H,Los Angeles,CA
+874,Christopher Shell,2015-09-27,43,M,W,Rossville,GA
+875,Victor Oswaldo Coronado-Martinez,2015-09-27,40,M,H,Ponder,TX
+872,Junior Prosper,2015-09-28,31,M,B,Miami,FL
+873,Alberto Hernandez,2015-09-28,59,M,H,San Ysidro,CA
+877,Patrick Stephen Lundstrom,2015-09-29,46,M,N,Rapid City,SD
+880,Robert  Christen,2015-09-29,37,M,W,Mora,MN
+876,Brandon Lamar Johnson,2015-09-30,28,M,B,Beckley,WV
+888,David M. Diaz,2015-10-02,28,M,H,Sierra Vista,AZ
+889,Christian Pena,2015-10-02,26,M,H,Rialto,CA
+890,Phyllis Ilene Jepsen,2015-10-02,55,F,W,Aloha,OR
+892,Matthew Dobbins,2015-10-02,29,M,W,Amarillo,TX
+886,James Joseph Byrd,2015-10-04,45,M,,Van Nuys,CA
+887,Eric Edgell,2015-10-04,27,M,W,Muscle Shoals,AL
+891,Jeffery McCallum,2015-10-04,31,M,B,Chicago,IL
+893,James  Dunaway,2015-10-05,51,M,W,Hurst,TX
+894,Rodney Jencsik,2015-10-05,50,M,W,Woodbridge,NJ
+895,Omar Ali,2015-10-05,27,M,O,Akron,OH
+957,Charles A. Pettit,2015-10-05,18,M,B,Midwest City,OK
+896,Donald Miller II,2015-10-06,39,M,,Monterey,CA
+897,Amado Lago,2015-10-07,46,M,H,West Palm Beach,FL
+898,Gary Carmona Boitano,2015-10-09,19,M,B,Columbia,MD
+910,Margaret Wagner,2015-10-09,62,F,,Aguanga,CA
+902,Christopher Whitmarsh,2015-10-10,49,M,W,Beverly,MA
+903,Richard Love,2015-10-10,31,M,W,Old Saybrook,CT
+904,William Combs,2015-10-10,38,M,W,Pinion Hills,CA
+905,Travis Quay,2015-10-10,40,M,W,Cato Township,MI
+906,Anthony Aguilar,2015-10-10,35,M,H,Lisle,IL
+899,Joe Pasquez Ortiz,2015-10-11,34,M,H,San Bernardino,CA
+900,Kevin Lau,2015-10-11,44,M,A,Lakes Charles,LA
+901,Bernard Brandon Powers,2015-10-11,23,M,B,Taylors,SC
+907,Robert Humberto Medellin,2015-10-11,43,M,H,West Odessa,TX
+908,Jason Day,2015-10-12,,M,B,Lawton,OK
+909,Rudolph Smith,2015-10-12,31,M,W,Brookhaven,MS
+912,Brent Brannon,2015-10-14,27,M,W,Cartersville,GA
+913,Michelle Marie Burg,2015-10-14,46,F,W,Naples,FL
+914,Samuel Villarreal,2015-10-14,18,M,H,Indio,CA
+915,Michael Donald Clark,2015-10-14,59,M,,Seaside,CA
+918,Leslie Portis,2015-10-14,57,M,B,Monroeville,AL
+916,Jorge Santiago Tapia,2015-10-15,15,M,H,Miami,FL
+917,Kaleb Alexander,2015-10-15,25,M,B,Columbus,OH
+919,Linda Lee Lush,2015-10-15,50,F,W,Las Vegas,NV
+920,Michael J. Brennan,2015-10-15,31,M,W,Parma,OH
+921,Robert Burgess,2015-10-15,35,M,W,Kirkland,WA
+922,Herbert Benitez,2015-10-15,27,M,H,San Francisco,CA
+923,Martin  Ryans Jr.,2015-10-15,20,M,B,Houston,TX
+924,Johnny Angel Rangel,2015-10-16,27,M,H,Valinda,CA
+926,Jason Foreman,2015-10-16,45,M,,Barrow County,GA
+927,Ricky Javenta Ball,2015-10-16,33,M,B,Columbus,MS
+929,Gino Paredes,2015-10-17,22,M,H,Modesto,CA
+930,Dequan Williams,2015-10-17,28,M,B,York,PA
+931,Corey Jones,2015-10-18,31,M,B,Palm Beach Gardens,FL
+932,Krikor Ekizian,2015-10-18,28,M,W,Fresno,CA
+934,Dion Lamont Ramirez,2015-10-19,53,M,B,Los Angeles,CA
+935,Roger D.  Hall,2015-10-20,30,M,W,Louisville,KY
+936,Lamontez Jones,2015-10-20,39,M,B,San Diego,CA
+937,Joel Lopes,2015-10-20,40,M,H,Truth or Consequences,NM
+938,Darien Greenwood,2015-10-20,30,M,W,Mandeville,LA
+939,Jonathan Tyler Gossman,2015-10-20,21,M,W,Cedar Rapids,IA
+940,Miguel Angel Marin Galena,2015-10-21,35,M,H,Calexico,CA
+941,Ryan Christopher Rodriguez,2015-10-21,21,M,H,West Goshen,CA
+944,Timothy Arnold,2015-10-21,47,M,W,Kentwood,MI
+943,Lawrence Green,2015-10-22,38,M,B,Shreveport,LA
+945,Adriene Jamarr Ludd,2015-10-22,36,M,B,Carmichael,CA
+946,Stephen H. Brock,2015-10-22,53,M,W,Pine Top,KY
+1283,John Tozzi,2015-10-24,,M,,New Paltz,NY
+947,Juan Ulloa,2015-10-24,34,M,H,Highgrove,CA
+948,Rolly Thomas,2015-10-24,34,M,B,Cape Coral,FL
+950,Dominic Hutchinson,2015-10-24,30,M,B,Cathedral City,CA
+951,Arthur West,2015-10-24,28,M,W,Zanesville,OH
+952,Darren Myron Fude,2015-10-24,47,M,W,Paddock Lake,WI
+953,Jon Ployhar,2015-10-24,49,M,W,Kenai Peninsula,AK
+949,John Harley Turner,2015-10-25,36,M,W,Talking Rock,GA
+954,Kevin Brunson,2015-10-26,45,M,B,Frederick,MD
+955,Marquesha McMillan,2015-10-26,21,F,B,Washington,DC
+956,Kobvey Igbuhay,2015-10-26,18,M,O,Tampa,FL
+960,Tyrie Cuyler,2015-10-27,25,M,B,Savannah,GA
+958,Anthony Ashford,2015-10-28,29,M,B,Point Loma,CA
+959,Ricky Keith Keeton,2015-10-28,57,M,W,Smithville,MS
+961,Jerry Michael Graham Jr.,2015-10-28,34,M,B,Jacksonville,FL
+962,Jasper Levi Adams,2015-10-28,35,M,W,Salem,OR
+964,Deaunte Lamar Bell,2015-10-29,,M,B,Columbus,OH
+965,Allen Quintez Swader,2015-10-29,18,M,W,Hohenwald,TN
+966,Floyd Ray Cook,2015-10-30,62,M,W,Burkesville,KY
+967,Mario Martinez,2015-10-30,29,M,H,Mesquite,TX
+968,Tony Berry,2015-10-30,25,M,B,Houston,TX
+971,Daniel Nole,2015-10-30,30,M,W,Norwood,OK
+969,Noah Harpham,2015-10-31,33,M,W,Colorado Springs,CO
+970,Bennie Lee Tignor,2015-10-31,56,M,B,Opelika,AL
+972,Luverne Roy Christensen,2015-11-01,49,M,W,Hutchinson,MN
+973,Killian O'Quinn,2015-11-01,20,M,W,Eureka,CA
+974,Jack Yantis,2015-11-01,62,M,W,Council,ID
+975,James Covington,2015-11-02,62,M,B,Washington,DC
+980,Jeremy Mardis,2015-11-03,6,M,W,Marksville,LA
+977,Joseph Tyndall,2015-11-04,30,M,W,Springfield,MO
+978,John Allen,2015-11-04,57,M,B,Houston,TX
+979,Faisal Mohammad,2015-11-04,18,M,O,Merced,CA
+981,Timothy Gene Smith,2015-11-04,47,M,W,Pacific Beach,CA
+983,David  Romanoski,2015-11-05,48,M,W,Morgantown,WV
+984,James Bigley,2015-11-05,20,M,W,Hominy,OK
+985,Jacob Hohman,2015-11-05,30,M,W,Lakeshire,MO
+987,Laura Lemieux,2015-11-05,36,F,W,Goose Creek,SC
+986,Michael  Johnson,2015-11-06,51,M,W,Portland,OR
+988,James Francis Smyth,2015-11-06,55,M,W,Las Vegas,NV
+992,Kim Lee Long,2015-11-06,48,M,W,Wadesboro,NC
+989,Delvin Simmons,2015-11-09,20,M,B,Spartanburg,SC
+991,Cesar Cuellar,2015-11-09,25,M,H,North Laredo,TX
+993,Dale Maverick Hudson,2015-11-09,26,M,W,Braxton County,WV
+994,Leonel Acevedo,2015-11-09,45,M,H,San Jose,CA
+1001,Miguel Cano,2015-11-09,35,M,H,Los Angeles,CA
+1161,Dana Bruce Ott,2015-11-10,63,M,W,Colorado Springs,CO
+995,Eddie Gabriel Sanchez,2015-11-10,34,M,H,Chico,CA
+996,Jason Leanard Mesaros,2015-11-10,36,M,H,Brighton,CO
+1013,Andrew Blake,2015-11-10,22,M,W,Dillon,MT
+997,Joseph Jaramillo,2015-11-11,31,M,H,Albuquerque,NM
+998,Javier Lopez Garcia,2015-11-11,25,M,H,San Francisco,CA
+999,Brian Gavin,2015-11-11,57,M,W,Aiken,SC
+1000,Ryan Quinn Martin,2015-11-11,32,M,B,Baltimore,MD
+1002,Moises Nero,2015-11-12,42,M,B,Sunnyvale,CA
+1005,Michael Joseph Bartkiewicz,2015-11-13,52,M,W,Gibson County,TN
+1007,Ernesto Gamino,2015-11-13,25,M,H,Jurupa Valley,CA
+1008,Matthew Coleman,2015-11-13,25,M,W,Eden,GA
+1006,Ramon Salazar,2015-11-14,31,M,H,Jurupa Valley,CA
+1003,Richard Perkins,2015-11-15,39,M,B,Oakland,CA
+1004,John David Livingston,2015-11-15,32,M,W,Spring Lake,NC
+1009,Shane Whitehead,2015-11-15,16,M,B,Germantown,PA
+1012,Jamar Clark,2015-11-15,24,M,B,Minneapolis,MN
+1228,Cameron Davis Long,2015-11-16,28,M,W,Leon County,TX
+1014,Brent Noblitt,2015-11-16,25,M,W,Whitfield County,GA
+1141,Michael Tindall,2015-11-17,41,M,W,Weatherford,TX
+1010,Yohans Leon,2015-11-17,28,M,B,Miami,FL
+1011,Demetrius Bryant,2015-11-17,21,M,B,Cayce,SC
+1015,Jeray Chatham,2015-11-17,30,M,B,Weatherford,TX
+1016,Derry Touchstone,2015-11-17,58,M,W,Arlington,GA
+1018,Francis Hartnett,2015-11-17,47,M,W,Little Egg Harbor,NJ
+1017,Cornelius Brown,2015-11-18,25,M,B,Opa-Locka,FL
+1019,Marcus Meridy,2015-11-18,44,M,B,Berrien County,MI
+1020,Randy Allen Smith,2015-11-19,34,M,B,Manatee,FL
+1021,Steve Dormil,2015-11-19,27,M,B,Fort Pierce,FL
+1022,Darick Napper,2015-11-19,34,M,B,Washington,DC
+1024,William Tarrant,2015-11-20,39,M,W,Paulding County,GA
+1023,Nathaniel Harris Pickett,2015-11-20,29,M,B,Barstow,CA
+1026,Chris Nichols,2015-11-21,24,M,W,Colbert,OK
+1025,James Daniel Hall,2015-11-22,47,M,W,Fontana,CA
+1027,Matthew Grows,2015-11-22,45,M,W,Reno,NV
+1029,Miguel Angel Martinez,2015-11-22,28,M,H,Denver,CO
+1028,Henry Reyna,2015-11-23,49,M,H,Corpus Christi,TX
+1030,Barry Kirk,2015-11-23,50,M,W,Columbus,OH
+1031,Michael Kirvelay,2015-11-24,45,M,W,Columbia Heights,MN
+1032,Thomas Joseph Mceniry,2015-11-24,32,M,W,Las Vegas,NV
+1033,Freddy Baez,2015-11-24,24,M,B,Camden,NJ
+1034,Magnum Edgar Phillips,2015-11-25,23,M,W,Springfield,MO
+1035,Douglas R. Slade,2015-11-25,52,M,W,Eagar,AZ
+1046,Somer Speer,2015-11-25,37,F,W,Ozark,MO
+1104,Andrew Thomas,2015-11-26,26,M,W,Chico,CA
+1039,Rick Gullickson,2015-11-27,58,M,W,Lampe,MO
+1040,Kevin Close,2015-11-28,50,M,W,Seagoville,TX
+1036,Justin D. McHenry,2015-11-29,22,M,W,Celina,OH
+1037,Lionel Kerns,2015-11-29,53,M,W,Maysville,MO
+1038,Ralph Aguilar,2015-11-29,69,M,H,Sun City,AZ
+1041,Hugo Fernando Celio,2015-11-29,23,M,H,Bakersfield,CA
+1042,Zachary Grigsby,2015-11-29,29,M,W,Lincoln,NE
+1043,Tuan Hoang,2015-11-30,25,M,A,Aurora,CO
+1044,Darius Smith,2015-11-30,18,M,B,Atlanta,GA
+1227,Fernando Sauceda,2015-11-30,31,M,H,Wink,TX
+1045,Joshua  Jozefowicz,2015-12-01,23,M,W,Bangor,ME
+1047,John Anthony Gonzalez,2015-12-01,18,M,H,Norwalk,CA
+1049,Phillip Munoz,2015-12-02,35,M,H,Denver,CO
+1050,Tashfeen Malik,2015-12-02,27,F,O,San Bernardino,CA
+1051,Syed Farook,2015-12-02,28,M,O,San Bernardino,CA
+1052,Mario Woods,2015-12-02,26,M,B,San Francisco,CA
+1053,Allen Pacheco,2015-12-02,32,M,H,San Antonio,TX
+1054,Florencio Lucero,2015-12-02,36,M,H,Deming,NM
+1055,Neil Scott Stretesky,2015-12-03,66,M,W,Big Springs,NE
+1056,Ivan Krstic,2015-12-04,47,M,W,Mesa,AZ
+1057,Raymone M. Davis,2015-12-04,21,M,B,Mount Washington,PA
+1058,Colten Price Marcellus,2015-12-05,24,M,W,Irving,TX
+1059,David  Winesett,2015-12-05,51,M,W,Miami,FL
+1060,Michael L. Funk,2015-12-05,60,M,W,Neenah,WI
+1061,Sheilah Huck,2015-12-05,61,F,W,St. Louis,MO
+1062,Juan Perez,2015-12-05,38,M,H,Indio,CA
+1063,Raymond Azevedo,2015-12-06,35,M,W,Seattle,WA
+1064,Carlumandarlo Zaramo,2015-12-06,46,M,B,Richmond Heights,OH
+1065,John Alan Britton,2015-12-06,48,M,W,Laramie,WY
+1067,Miguel Espinal,2015-12-08,36,M,B,Yonkers,NY
+1068,Derek Stokes,2015-12-08,33,M,B,Cleveland,OH
+1069,Christopher Higdon,2015-12-09,66,M,W,Leitchfield,KY
+1070,Sammy Monroe Echols,2015-12-09,51,M,,Pryor,OK
+1071,Jason Bryant,2015-12-10,34,M,W,Indianapolis,IN
+1072,Charles Edward Rosemond,2015-12-10,55,M,B,Taylors,SC
+1073,Thomas Arthur Gendreau,2015-12-10,54,M,W,Marina,CA
+1074,TK TK,2015-12-10,,M,,Hemet,CA
+1075,Steven Wickert,2015-12-11,36,M,W,Tucson,AZ
+1076,Christopher Goodlow,2015-12-12,25,M,B,Indianapolis,IN
+1078,Javario Shante Eagle,2015-12-12,24,M,B,Chattanooga,TN
+1079,Nicholas Robertson,2015-12-12,28,M,B,Lynwood,CA
+1081,Jonathan Wardlow,2015-12-12,36,M,W,Healdton,OK
+1082,Andrew Jospeh Todd,2015-12-12,20,M,W,East Stroudsburg,PA
+1083,Roy Carreon,2015-12-12,49,M,H,San Bernardino,CA
+1086,Efrain Villanueva,2015-12-12,,M,,Aurora,CO
+1077,Shirley  Weis,2015-12-13,51,F,W,Arlington,TX
+1080,Ryan McMillan,2015-12-13,21,M,W,Denton,TX
+1084,Nephi  Leiataua,2015-12-13,30,M,O,Thurston County,WA
+1089,Enrique Gonzalez,2015-12-13,32,M,H,Mountain View,CO
+1085,Calvin McKinnis,2015-12-14,33,M,B,New Orleans,LA
+1088,Jeffrey Gene Evans,2015-12-14,52,M,W,Middle River,MD
+1090,Michael  Thomason,2015-12-14,56,M,W,Humboldt,TN
+1091,Brenda Dean Kimberling,2015-12-14,48,F,W,Las Vegas,NV
+1092,Mharloun Verdejo  Saycon,2015-12-14,39,M,A,Long Beach,CA
+1093,Hector Alvarez,2015-12-14,19,M,H,Gilroy,CA
+1094,Roberto Sanchez,2015-12-14,45,M,H,Las Vegas,NV
+1095,Mark Toney,2015-12-14,33,M,W,Mount Hope,WV
+1096,Ronnie Dubose Carter,2015-12-15,51,M,B,Dallas,NC
+1097,Bryant Neil Duncan,2015-12-16,,M,W,Camarillo,CA
+1098,Douglas Yon,2015-12-17,25,M,W,Kent,OH
+1099,Christopher Fletcher,2015-12-17,24,M,W,Modesto,CA
+1100,Erica Lauro,2015-12-18,22,F,W,Northwood,OH
+1101,Amos Frerichs,2015-12-18,32,M,W,Knoxville,TN
+1102,Robert L. Martinez,2015-12-18,58,M,H,Taos,NM
+1103,Trayvon Scruggs,2015-12-19,24,M,B,Concord,VA
+1105,Ruben Jose Herrera,2015-12-19,26,M,H,Los Angeles,CA
+1106,Leroy Browning,2015-12-20,30,M,B,Palmdale,CA
+1107,Mark  Ramirez,2015-12-20,31,M,H,Amarillo,TX
+1108,Guadalupe Quiroz,2015-12-21,34,M,H,Hemet,CA
+1109,Bobby Daniels,2015-12-21,48,M,B,Douglasville,GA
+1110,Michael Noel,2015-12-21,,M,B,Breaux Bridge,LA
+1111,Derek DeGroat,2015-12-21,21,M,W,Canaan Township,PA
+1112,Robert L. Teter,2015-12-21,39,M,W,Deltona,FL
+1113,Chan Leith,2015-12-21,25,M,B,Aurora,CO
+1119,Brandon Barsnick,2015-12-21,30,M,W,Smartsville,CA
+1114,Charles Reynolds,2015-12-22,61,M,,Ludlow,KY
+1115,Kenneth Stephens,2015-12-22,56,M,W,Burlington,VT
+1116,Michael Hilber,2015-12-22,29,M,W,Brooksville,FL
+1117,Jose  Rodriguez,2015-12-22,19,M,H,Albuquerque,NM
+1118,Kevin Matthews,2015-12-23,35,M,B,Dearborn,MI
+1120,Schuylar Gunning,2015-12-24,36,M,W,Winnsboro,LA
+1122,Gregory Sanders,2015-12-24,54,M,,Pride,LA
+1126,Terrozza Tyree Griffin,2015-12-24,24,M,B,Lansing,MI
+1127,Omar Ventura,2015-12-24,23,M,H,Porterville,CA
+1129,Daquan Antonio Westbrook,2015-12-24,18,M,B,Charlotte,NC
+1125,William David Raff,2015-12-25,31,M,W,Palo Alto,CA
+1121,Lonnie Niesen,2015-12-26,41,M,W,Phoenix,AZ
+1123,Bettie Jones,2015-12-26,55,F,B,Chicago,IL
+1124,Quintonio LeGrier,2015-12-26,19,M,B,Chicago,IL
+1151,Gilbert Heredia,2015-12-26,38,M,H,Homedale,ID
+1128,Michael Parker,2015-12-27,36,M,W,Lucedale,MS
+1132,Sean Mould,2015-12-27,34,M,W,Tempe,AZ
+1143,Gayneaux Paul Trahan,2015-12-27,52,M,W,Franklin,LA
+1131,Corey Jason Achstein,2015-12-28,28,M,W,Suffolk,VA
+1133,Siolosega Velega-Nuufolau,2015-12-29,50,F,O,Santa Nella,CA
+1134,Tien Hua,2015-12-29,,M,A,Rosemead,CA
+1135,Fred Perez,2015-12-30,55,M,H,Fresno,CA
+1136,John Randell Veach,2015-12-30,39,M,,Rawlins,WY
+1137,Keith Childress,2015-12-31,23,M,B,Las Vegas,NV
+1139,Joshua Sisson,2016-01-01,30,M,W,San Diego,CA
+1138,Sean O'Brien,2016-01-02,37,M,W,Livingston,MT
+1195,Lance Light,2016-01-02,54,M,W,Maryneal,TX
+1198,Lonnie Haskell Powers,2016-01-02,37,M,W,Sioux Falls,SD
+1140,Germonta Wallace,2016-01-03,30,M,B,Charlotte,NC
+1142,Eric John Senegal,2016-01-04,27,M,B,Ragley,LA
+1144,Rodney Turner,2016-01-04,22,M,B,Oklahoma City,OK
+1145,Joel Anthony Nelson,2016-01-05,29,M,W,Olympia,WA
+1146,James K. Maher,2016-01-05,39,M,W,Johnson City,TN
+1147,Carlton Antonio Murphy,2016-01-05,33,M,B,Charlotte,NC
+1148,Stephen Bukwich,2016-01-05,52,M,W,Redding,CA
+1149,Albert Thompson,2016-01-05,28,M,H,Ceres,CA
+1160,David Zollo,2016-01-05,54,M,W,Upper Darby,PA
+1150,Charles Hollstein,2016-01-06,38,M,W,Zion,IL
+1153,Alan Huberth Franco-Armenta,2016-01-06,32,M,H,Carrizozo,NM
+1154,Kenneth Clay,2016-01-06,34,M,W,Daviess County,KY
+1157,Eric C. Olsen,2016-01-08,26,M,W,Geneva,WI
+1158,Andrew Earl Abernathy,2016-01-08,50,M,W,Acworth,GA
+1156,David Jay Kent,2016-01-10,37,M,W,Kelso,WA
+1159,Christine A. Lucas,2016-01-10,45,F,W,Rising Sun,MD
+1162,Alan Paul Bartley,2016-01-11,56,M,W,San Fernando,CA
+1163,Robert Tenbrink,2016-01-11,45,M,W,Cincinnati,OH
+1164,Ramone Lonergan,2016-01-11,32,M,W,Denver,CO
+1165,Ciara Meyer,2016-01-11,12,F,W,Penn Township,PA
+1166,Herman Bean,2016-01-12,49,M,N,Spenard,AK
+1167,Keith Richardson,2016-01-12,58,M,W,Norfolk,VA
+1183,Brandon Bearden,2016-01-13,29,M,W,Sevierville,TN
+1197,Timothy Meehan,2016-01-13,60,M,W,Cle Elum,WA
+1168,Willie Holderfield,2016-01-14,40,M,W,Hurst,IL
+1169,Miguel Hernandez,2016-01-14,39,M,H,Santa Clarita,CA
+1180,William Keith Waldron,2016-01-15,26,M,W,Elkins,WV
+1196,Rakeem Bentley,2016-01-15,24,M,B,Southfield,MI
+1172,Alfred Longoria,2016-01-16,34,M,H,Hollywood Hills,CA
+1173,Ashton Lane Morris,2016-01-16,27,M,W,San Antonio,TX
+1176,Adam Karjalainen,2016-01-16,44,M,W,Beaverton,OR
+1177,Kelsey Rose Hauser,2016-01-16,25,F,W,El Cajon,CA
+1179,Clarence Layfield,2016-01-16,55,M,W,Petroleum,WV
+1181,Henry Bennett,2016-01-16,19,M,B,Belle Glade,FL
+1170,Crayton West,2016-01-17,52,M,B,St. Louis,MO
+1171,Efrain Herrera,2016-01-17,24,M,H,North Hills,CA
+1174,Joshua Tate Fielding,2016-01-17,38,M,W,Rainbow City,AL
+1175,Corey Lee Henderson,2016-01-17,31,M,W,Salt Lake City,UT
+1188,Daniel Shaver,2016-01-17,26,M,W,Mesa,AZ
+1178,Jordan Szymanski,2016-01-18,33,M,W,Tucson,AZ
+1182,Eric Provost,2016-01-18,28,M,W,Orlando,FL
+1184,Timothy Caruthers,2016-01-18,27,M,W,Medford,OR
+1186,Levi Gene Wilson,2016-01-18,39,M,W,Phoenix,AZ
+1189,Vasilios Alexander Katsouras,2016-01-18,29,M,W,Union City,CA
+1185,Gary Wayne Jones,2016-01-19,36,M,W,Dallas,TX
+1187,Samuel Grady,2016-01-19,55,M,W,Statesville,NC
+1190,Jim Redmond,2016-01-19,28,M,W,Valdosta,GA
+1191,Timothy Albert,2016-01-20,40,M,B,Port Barre,LA
+1194,Randy Joe Sanders,2016-01-20,33,M,W,Meridianville,AL
+1202,Michael Clyde Lynch,2016-01-20,37,M,W,Kerrville,TX
+1201,Cedric Norris,2016-01-21,39,M,B,Eufaula,OK
+1200,Michael Lamar Robinson,2016-01-23,43,M,W,Clanton,AL
+1199,Sergio Alvarado-Morales,2016-01-25,38,M,H,Reno,NV
+1203,"Robert ""LaVoy"" Finicum",2016-01-26,55,M,W,Burns,OR
+1204,Scott Scanlon,2016-01-27,52,M,W,Mountain Pine,AR
+1205,Johnathan Bratcher,2016-01-27,32,M,B,Memphis,TN
+1206,Herman Flores,2016-01-27,31,M,H,Santa Fe,NM
+1207,John Wesley Smith,2016-01-27,27,M,W,Latta,SC
+1208,Thongsavanh Vandarack,2016-01-27,40,M,A,Lenoir City,TN
+1209,Janet Wilson,2016-01-27,31,F,B,Dearborn,MI
+1210,Nathan Lee Bailey,2016-01-27,30,M,W,Mansfield,TX
+1212,Israel Vladimir Rodriguez,2016-01-27,26,M,H,Cobb County,GA
+1213,Jacqueline D. Salyers,2016-01-28,32,F,N,Tacoma,WA
+1214,William A. Adams,2016-01-28,33,M,W,Omaha,NE
+1215,Christopher Kalonji,2016-01-28,19,M,B,Clackamas County,OR
+1216,Randolph McClain,2016-01-29,33,M,B,Lynn,MA
+1218,Christopher Michael Dew,2016-01-29,29,M,B,Irving,TX
+1226,Angela Hiatt,2016-01-29,41,F,W,Phenix City,AL
+1221,Charles M. Smith,2016-01-30,29,M,B,Chicago,IL
+1222,Philip B. Salazar,2016-01-30,38,M,H,Fort Collins,CO
+1224,Jose Alegre,2016-01-30,64,M,H,Rossville,GA
+1230,Jeremy J. Sinclair,2016-01-30,42,M,W,Sugar Creek,MO
+1288,Joshua Shane Bispo,2016-01-31,42,M,W,Bakersfield,CA
+1220,Bruce Kelley,2016-01-31,37,M,B,Wilkinsburg,PA
+1223,Juan A. Ruiz,2016-01-31,46,M,H,Immokalee,FL
+1225,Michael Brown,2016-01-31,25,M,W,Saginaw,TX
+1229,Jeffry Graves,2016-01-31,62,M,,Newark,CA
+1219,Peter John,2016-02-01,36,M,B,Washington,DC
+1232,Edgar Rene Alvarado,2016-02-01,21,M,H,Albuquerque,NM
+1231,Justin Prescott,2016-02-02,30,M,W,Rancho Cordova,CA
+1233,John Henry Neuman,2016-02-03,53,M,W,Schulter,OK
+1234,Cristiaan Oliver Dubrino,2016-02-03,31,M,H,Ocala,FL
+1235,Raymond Gassman,2016-02-03,22,M,N,Rosebud,SD
+1236,Kayden Clarke,2016-02-04,24,M,W,Mesa,AZ
+1237,Antronie Scott,2016-02-04,36,M,B,San Antonio,TX
+1238,Scott Harless,2016-02-04,47,M,W,Kansas City,MO
+1243,Thomas Hirko,2016-02-04,54,M,W,Perry Township,OH
+1250,Hector Leroy,2016-02-04,43,M,H,El Paso,TX
+1242,Ronald Barawis,2016-02-05,38,M,O,Hilo,HI
+1246,Blake Edward Fitzgerald,2016-02-05,30,M,W,Milton,FL
+1248,Vinson Ray Strickland,2016-02-05,51,M,W,Union Grove,NC
+1249,Phillip Ferry,2016-02-05,55,M,W,Seaside,OR
+1240,Jose Mendez,2016-02-06,16,M,H,Los Angeles,CA
+1239,Marese V. Collins,2016-02-07,23,M,B,Columbus,OH
+1241,Phillip Luchsinger,2016-02-07,36,M,W,Austin,AR
+1244,Michael Laniado,2016-02-07,27,M,,Manchester,NJ
+1245,Shalamar Longer,2016-02-08,33,M,B,Chester,PA
+1247,David Joseph,2016-02-08,17,M,B,Austin,TX
+1252,Eric Harris,2016-02-08,22,M,B,New Orleans,LA
+1251,Gustavo Najera,2016-02-09,22,M,H,Anaheim,CA
+1256,Scottie Yanagawa,2016-02-09,29,M,O,Hilo,HI
+1253,Timothy Vessels,2016-02-10,41,M,W,Louisville,KY
+1254,David Brian Evans,2016-02-10,67,M,W,Abingdon,MD
+1255,Vincent Nageak,2016-02-10,36,M,N,Barrow,AK
+1257,John Birkeland,2016-02-10,52,M,W,Roseville,MN
+1260,Anthony Bertoni,2016-02-10,56,M,O,Henderson County,TX
+1258,Alijah Jackson,2016-02-11,35,M,W,Maiden,NC
+1261,Matthew Quinn,2016-02-11,45,M,W,Lancaster,CA
+1263,Mohamed Barry,2016-02-11,30,M,B,Columbus,OH
+1262,Peter Fanfan,2016-02-12,29,M,B,Boston,MA
+1273,David Glen Watson,2016-02-12,53,M,W,Fort Worth,TX
+1276,Sahlah Ridgeway,2016-02-12,32,F,B,Syracuse,NY
+1266,Calvin Smith,2016-02-13,22,M,B,Baton Rouge,LA
+1268,Ali Eisa Abdalla Yahia,2016-02-13,29,M,B,Urbandale,IA
+1270,Calin Roquemore,2016-02-13,24,M,B,Beckville,TX
+1272,Dyzhawn L. Perkins,2016-02-13,19,M,B,Arvonia,VA
+1280,Rammy Jaradat,2016-02-14,26,M,W,Van Nuys,CA
+1269,Marc Stoddart,2016-02-14,50,M,W,Bradenton,FL
+1271,Eduardo Rodriguez,2016-02-14,29,M,H,Los Angeles,CA
+1282,Guadalupe Sauceda,2016-02-15,52,M,H,Jal,NM
+1274,Brandon Lee Witt,2016-02-15,39,M,W,Yorba Linda,CA
+1275,Christopher Andrews,2016-02-16,51,M,W,Fairfield,CT
+1278,Destry Meikle,2016-02-16,48,M,W,Republic,MO
+1279,Shawn Henry Allen Dickens,2016-02-16,30,M,W,Mena,AR
+1281,Paul Gaston,2016-02-17,37,M,B,Cincinnati,OH
+1284,Joseph Noel,2016-02-18,25,M,W,Commerce,GA
+1285,Jose Quintanilla,2016-02-18,30,M,H,Santa Ana,CA
+1286,Oscar Reyes,2016-02-18,35,M,H,Santa Ana,CA
+1287,Ronnie Padron,2016-02-18,32,M,H,Reno,TX
+1295,Justin Patrick Moses,2016-02-19,35,M,W,Ogden,UT
+1297,Curtis James Dugger,2016-02-19,31,M,W,Elizabethton,TN
+1291,Danny Rendon,2016-02-20,30,M,H,Anaheim,CA
+1294,Edgar Camacho-Alvarado,2016-02-20,23,M,H,Albuquerque,NM
+1296,Marcos Perea,2016-02-20,41,M,B,Lakewood,WA
+1298,Charles Lee Lambert,2016-02-20,45,M,W,Iuka,MS
+1289,Che Taylor,2016-02-21,46,M,B,Seattle,WA
+1290,Sherrisa Homer,2016-02-21,36,F,N,Phoenix,AZ
+1292,Kisha Michael,2016-02-21,31,F,B,Inglewood,CA
+1293,Marquintan Sandlin,2016-02-21,32,M,B,Inglewood,CA
+1305,Patricia Kruger,2016-02-21,38,F,N,Houston,AK
+1301,Gerardino Cayetano Gonzalez,2016-02-22,33,M,H,Denver,CO
+1302,Jamie Clark Long,2016-02-22,45,M,W,Bakersfield,CA
+1303,David Michael Green,2016-02-22,38,M,W,Mission,TX
+1304,Rouven Loch,2016-02-22,22,M,W,Fairborn,OH
+1306,Travis Stevenson,2016-02-23,48,M,B,Baton Rouge,LA
+1309,Angel Alan Gleason,2016-02-23,36,M,H,Ripon,CA
+1310,Baltazar Ramos,2016-02-23,39,M,H,Houston,TX
+1317,Alex Buckner,2016-02-23,26,M,W,Phoenix,AZ
+1307,Robert Keil,2016-02-24,16,M,W,Blue Springs,MO
+1313,Martin Wirth,2016-02-24,58,M,W,Bailey,CO
+1314,Victor Rivera,2016-02-24,27,M,H,Phoenix,AZ
+1316,Francisco Garcia,2016-02-24,26,M,H,Cerritos,CA
+1318,Christopher J. Davis,2016-02-24,21,M,B,East Troy,WI
+1312,Luke Miller,2016-02-25,37,M,W,Evans,CO
+1315,Greg Gunn,2016-02-25,56,M,B,Montgomery,AL
+1319,Tristan Conti,2016-02-25,19,M,W,Silver Springs,NV
+1320,Cedric Ford,2016-02-25,38,M,B,Hesston,KS
+1322,Kionte Desean Spencer,2016-02-26,18,M,B,Roanoke,VA
+1324,Abraham Mitchell Fryer,2016-02-26,35,M,W,Rapid Valley,SD
+1325,Fernando Hernandez,2016-02-27,23,M,H,San Antonio,TX
+1321,Nathan Grissom,2016-02-28,41,M,W,Ashville,AL
+1323,Earl Hicks,2016-02-28,44,M,W,Rapid City,SD
+1327,Akiel Denkins,2016-02-29,24,M,B,Raleigh,NC
+1328,Dimitri Corcino,2016-03-01,39,M,H,Palm Bay,FL
+1329,Jorge Brian Gonzalez,2016-03-01,22,M,H,Euless,TX
+1330,Mickey Dewayne Sweatt,2016-03-01,37,M,W,Gautier,MS
+1331,Travis Boyd Bradley,2016-03-02,36,M,W,Bel Air,MD
+1341,Daniel Burkhardt,2016-03-02,41,M,W,Johnstown,PA
+1335,Sergio Ochoa,2016-03-03,27,M,H,Gilbert,AZ
+1338,John Alan Chamberlain,2016-03-04,66,M,,Sims,AR
+1342,Brandon Stanley,2016-03-04,30,M,W,East Berstadt,KY
+1334,Darrell Bosell,2016-03-05,34,M,W,Cheektowaga,NY
+1336,Herbert Ballance,2016-03-05,22,M,W,Beaumont,TX
+1332,Mark Minnick,2016-03-06,51,M,W,Azle,TX
+1333,James Scott,2016-03-06,42,M,W,Bismarck,ND
+1340,Osvaldo Torres,2016-03-06,41,M,H,South Gate,CA
+1339,Philip Vitullo,2016-03-07,49,M,W,Rochester,NY
+1343,Bryon Rosas,2016-03-07,45,M,W,San Jose,CA
+1344,Randall J. Selsor,2016-03-07,45,M,W,Topeka,KS
+1345,"John Charles ""JC"" Graham",2016-03-07,42,M,W,Billings,MT
+1348,Daniel H. Chavez,2016-03-07,41,M,H,Carlsbad,NM
+1347,Jeffrey Glen Casale,2016-03-08,27,M,W,Tampa,FL
+1349,Wesley Sheppard,2016-03-10,37,M,W,Biloxi,MS
+1351,Arteair Porter Jr.,2016-03-10,22,M,B,Reno,NV
+1352,Martin Hurtado,2016-03-10,21,M,H,Long Beach,CA
+1353,Jason Meador,2016-03-10,50,M,W,Odessa,TX
+1354,German Gonzalez,2016-03-10,23,M,H,Colorado City,CO
+1350,Tyre Privott,2016-03-11,25,M,B,Norfolk,VA
+1355,"Manford ""Butch"" Moore Jr.",2016-03-11,51,M,W,Rosalia,KS
+1375,Jack Goodman,2016-03-11,46,M,W,Clinton,IL
+1515,Teodoro Valencia,2016-03-11,23,M,H,Newark,CA
+1357,Peter Gaines,2016-03-12,37,M,B,Houston,TX
+1365,Marco Loud,2016-03-12,20,M,B,Houston,TX
+1476,Christopher Michael Tokazowski,2016-03-12,43,M,W,Greensboro,NC
+1356,Gevork Alachadzhyan,2016-03-13,45,M,W,Glendale,CA
+1358,Jose Raul Cruz,2016-03-13,16,M,H,Addison,TX
+1359,Joshua Grubb,2016-03-13,30,M,W,Lenoir City,TN
+1360,Wesley Chad Deerman,2016-03-13,26,M,W,Piedmont,AL
+1361,Keith Montgomery Jr.,2016-03-13,24,M,B,Chester,PA
+1362,Amy Jean McCoy,2016-03-13,38,F,W,Vancouver,WA
+1379,Jacai Colson,2016-03-13,28,M,B,Landover,MD
+1364,Lamar Harris,2016-03-14,29,M,B,Chicago,IL
+1366,Joseph Harris,2016-03-15,34,M,W,Russellville,KY
+1369,Daniel J. Wooters,2016-03-15,38,M,W,Evansville,IN
+1371,Ed Russell McIver,2016-03-15,43,M,W,Fort Worth,TX
+1367,Cristian Rene Medina,2016-03-16,23,M,H,Florence,CA
+1368,Eric Hernandez,2016-03-16,33,M,H,San Antonio,TX
+1374,Dennis Penny,2016-03-16,40,M,W,Anson County,NC
+1370,Map Kong,2016-03-17,38,M,A,Burnsville,MN
+1372,Sunny Chin,2016-03-17,53,M,A,Tampa,FL
+1376,Scott Bennett,2016-03-17,29,M,B,Houston,TX
+1377,Christopher Nelms,2016-03-17,30,M,B,Houston,TX
+1386,Michael Mallet,2016-03-18,49,M,,Byron,CA
+1401,David Alma Giles,2016-03-18,60,M,W,Idaho Falls,ID
+1382,India Beaty,2016-03-19,25,F,B,Norfolk,VA
+1387,Joshua Douglas,2016-03-19,24,M,W,Covington,LA
+1388,Thurman Reynolds,2016-03-19,21,M,B,Chicago,IL
+1392,Dylan R. Whitaker,2016-03-19,23,M,W,White Plains,KY
+1380,Boyd Keith Ballard,2016-03-20,61,M,W,Hopewell,VA
+1391,Clarence Briggs,2016-03-20,54,M,W,Fort Littleton,PA
+1393,Abraham Martinez,2016-03-20,62,M,H,Fort Wayne,IN
+1394,Robert Dentmond,2016-03-20,16,M,B,Gainesville,FL
+1395,"Ralph ""Phil"" Grenon",2016-03-21,76,M,W,Burlington,VT
+1396,Dylan Pape,2016-03-21,25,M,W,Stamford,CT
+1397,Edward J. Gorinski,2016-03-21,28,M,W,South Greensburg,PA
+1398,Ethan James Rincon,2016-03-22,25,M,H,Miami,FL
+1399,Travis J. Blair,2016-03-22,33,M,W,Fredericksburg,VA
+1400,Daven Scott Hannu,2016-03-23,51,M,W,Thornton,CO
+1402,Raymond Gonzalez,2016-03-23,34,M,H,Fresno,CA
+1403,Alexio Allen,2016-03-23,30,M,B,Raleigh,TN
+1404,Robert L. Dussourd,2016-03-24,44,M,W,Braintree,MA
+1405,Dominique Silva,2016-03-24,24,M,B,Pawtucket,RI
+1406,Andrew Mike,2016-03-24,29,M,W,Redlands,CA
+1407,Joel A. Gonzales,2016-03-24,48,M,H,Pueblo,CO
+1408,Mario Sandoval,2016-03-24,19,M,H,Pueblo of Laguna,NM
+1415,Jermon Seals,2016-03-24,22,M,B,Blue Springs,MO
+1412,Jose Perez,2016-03-26,39,M,H,Lowell,MA
+1413,Terrence Shane Blackburn,2016-03-26,36,M,W,Grundy,VA
+1414,Donald Andrew White,2016-03-26,55,M,W,Myrtle Beach,SC
+1416,Patrick Matthew McManamon,2016-03-26,46,M,W,Tampa,FL
+1410,Jeffrey Lanahan,2016-03-27,34,M,W,Lee's Summit,MO
+1411,Loreal Tsingine,2016-03-27,27,F,N,Winslow,AZ
+1417,Robert D. Guerin,2016-03-27,33,M,W,Roswell,NM
+1418,Deriante Deon Miller,2016-03-27,18,M,B,Kinston,NC
+1419,Earl Ashby,2016-03-27,33,M,W,Splendora,TX
+1420,Joseph Louis Melvin,2016-03-29,46,M,W,Clearlake Park,CA
+1421,Robert Morgan Garrison Jr.,2016-03-29,51,M,W,Piedmont,SC
+1422,Denise Fairchild,2016-03-29,50,F,W,Aitkin,MN
+1423,Angel Montion,2016-03-30,33,M,W,Los Angeles,CA
+1436,Ruben Cossyleon,2016-03-30,25,M,H,Glendale,AZ
+1514,Thomas Lagano,2016-03-30,52,M,W,Jackson,GA
+1846,James Craig Simpson,2016-03-31,31,M,B,Las Vegas,NV
+1424,Kimani Johnson,2016-03-31,18,M,B,Baltimore,MD
+1425,Matthew Vincent Wood,2016-03-31,43,M,B,Baltimore,MD
+1426,James Brown III,2016-03-31,34,M,B,Richmond,VA
+1427,Jesus Juarez,2016-04-01,65,M,H,Lockhart,TX
+1435,Joel Fabela,2016-04-01,37,M,H,Odessa,TX
+1432,Cameron Gover,2016-04-02,30,M,B,Indianapolis,IN
+1845,Preston Paul Perez,2016-04-03,48,M,W,Raceland,LA
+1430,Melissa Boarts,2016-04-03,36,F,W,Macon County,AL
+1431,Darrin Andrew Martin,2016-04-03,25,M,W,Austin,TX
+1433,David Mack,2016-04-03,69,M,W,Eau Claire,WI
+1428,Raul Salvador Marquez Heraldes,2016-04-04,50,M,H,Minneapolis,MN
+1437,Peter J. Doherty,2016-04-05,52,M,W,West Springfield,MA
+1438,Kevin Hicks,2016-04-05,44,M,B,Indianapolis,IN
+1439,Marvin Cremeans,2016-04-06,60,M,W,Oak Hill,OH
+1441,Laronda Sweatt,2016-04-06,40,F,B,Gallatin,TN
+1442,Cesar Frias,2016-04-06,20,M,H,Sylmar,CA
+1443,Luis Gongora,2016-04-07,45,M,H,San Francisco,CA
+1445,Lance C. McIntire,2016-04-07,44,M,W,Omaha,NE
+1444,Dazion Flenaugh,2016-04-08,40,M,B,Sacramento,CA
+1446,Melissa M. Abbott,2016-04-08,25,F,W,Lake Hallie,WI
+1448,Lamont Gulley,2016-04-08,43,M,B,Kentwood,MI
+1447,Diahlo Grant,2016-04-09,27,M,B,New Brunswick,NJ
+1453,Quron Williams,2016-04-09,19,M,B,Philadelphia,PA
+1449,Lonnie Ball,2016-04-10,39,M,W,Modesto,CA
+1451,William Clark,2016-04-10,30,M,W,Rotterdam,NY
+1452,Arturo Yobani-Torrez Valdez,2016-04-10,28,M,H,Los Angeles,CA
+1454,Efren Eloy Trujillo,2016-04-11,22,M,H,Las Vegas,NV
+1455,Pierre Loury,2016-04-11,16,M,B,Chicago,IL
+1456,Dion Daman,2016-04-12,40,M,W,Denver,CO
+1457,Joshua Moreno,2016-04-12,38,M,H,Benton,IL
+1458,Travis Wood,2016-04-12,20,M,W,Noma,FL
+1459,Rodney Watts,2016-04-13,35,M,B,Stockton,CA
+1460,Jeffrey Gray Wise,2016-04-13,52,M,W,Llano,TX
+1462,Koltlee Whitson,2016-04-13,26,M,W,Sparta,TN
+1463,Jeff Robertson,2016-04-14,54,M,W,McPherson,KS
+1465,Clemente Najera,2016-04-15,38,M,H,Lake Elsinore,CA
+1469,David Swatsky,2016-04-15,52,M,W,Cache,OK
+1471,Storm Allen Smith,2016-04-15,26,M,W,Muncie,IN
+1473,Gerald Robert Boyes,2016-04-16,53,M,W,Antioch,IL
+1464,Kisha Arrone,2016-04-17,35,F,B,Dayton,OH
+1466,Eric John Wilson,2016-04-17,22,M,W,El Paso,TX
+1467,Richard Bard Jr.,2016-04-17,31,M,B,Vineland,NJ
+1470,George Tillman,2016-04-17,32,M,B,New York,NY
+1472,Edson Thevenin,2016-04-17,37,M,B,Troy,NY
+1475,Rico Don Rae Johnson,2016-04-18,28,M,B,Greenbelt,MD
+1479,Demetrius Dorsey,2016-04-18,18,M,B,Mableton,GA
+1474,Sylasone Ackhavong,2016-04-19,41,M,A,Charlotte,NC
+1477,Jorevis Scruggs,2016-04-19,15,M,B,St. Louis,MO
+1478,Daniel Eric Blackmon,2016-04-19,38,M,W,Brooksville,AL
+1480,Francis Scot Dufore,2016-04-20,41,M,W,Homestead,FL
+1481,Jackie Lee Kirkham,2016-04-20,52,M,W,Perryville,AR
+1482,Mario Mejia Martinez,2016-04-21,48,M,H,Everett,MA
+1484,Tyler Hunkin,2016-04-22,29,M,W,Austin,TX
+1485,Carl Baranishyn,2016-04-22,51,M,W,Berne,NY
+1483,Demarcus Semer,2016-04-23,21,M,B,Fort Pierce,FL
+1486,Mitchell Oakley,2016-04-23,24,M,W,Chandler,AZ
+1487,Jakob E. Wagner,2016-04-23,18,M,W,Antigo,WI
+1488,Eric C. Wakup,2016-04-23,30,M,W,Norfolk,VA
+1527,Willie Tillman,2016-04-23,33,M,B,Fayetteville,AR
+1489,Kay Frances Campbell,2016-04-25,60,F,W,East Flat Rock,NC
+1490,Robin Barber,2016-04-26,28,M,W,Lakewood,CO
+1491,Joshua Brooks,2016-04-26,26,M,B,Chesapeake,VA
+1492,Jacquelyn Burke,2016-04-26,24,F,W,Albuquerque,NM
+1493,Darrel S. Machemehl,2016-04-26,44,M,W,Kingsbury,TX
+1840,David Shane Anderson,2016-04-27,36,M,W,Milcreek,UT
+1494,Cin Lam Mung,2016-04-27,34,M,A,Atlanta,GA
+1495,Damon Blair,2016-04-27,21,M,W,Westminster,CO
+1498,Kendar del Rosario,2016-04-28,37,M,B,Miami,FL
+1499,Lee Easter,2016-04-28,53,M,W,Boise,ID
+1500,Michael Kurtz,2016-04-28,45,M,W,Spokane,WA
+1501,Ashtian Barnes,2016-04-28,24,M,B,Houston,TX
+1506,Jeffrey Darrell Hobbs,2016-04-29,48,M,W,Jackson,MO
+1504,Oswald Mattner,2016-04-30,42,M,W,Wausau,WI
+1505,Mark Daniel Bess,2016-04-30,33,M,W,Spanish Fork,UT
+1507,Bender Dass,2016-04-30,55,M,W,Florence,AZ
+1508,Marion Habana,2016-04-30,28,M,A,Los Angeles,CA
+1502,Charlin Charles,2016-05-01,25,M,B,Orlando,FL
+1503,Ronald Branch,2016-05-01,28,M,W,Alamo,TN
+1842,Reginald Darnell Dogan,2016-05-02,52,M,B,Greenville,SC
+1510,Raymond Hopper,2016-05-03,59,M,W,Visalia,CA
+1509,Richard Ferretti,2016-05-04,52,M,W,Philadelphia,PA
+1511,Cayce A. DiTullio,2016-05-04,39,M,W,Burien,WA
+1512,Matthew Tucker,2016-05-04,18,M,,Temecula,CA
+1513,Gerry J. Thompson,2016-05-04,40,M,W,Buffalo,MO
+1516,Corey DiGiovanni,2016-05-05,36,M,W,Gretna,LA
+1517,Burt Johnson,2016-05-05,38,M,B,Milwaukee,WI
+1518,Deresha Armstrong,2016-05-05,26,F,B,Orlando,FL
+1519,Ronald D. Williams,2016-05-06,,M,B,Weirton,WV
+1523,Nathan Q. Cates,2016-05-07,29,M,W,Lake Stevens,WA
+1525,Alton Fitzgerald Witchard,2016-05-07,37,M,B,St. Petersburg,FL
+1529,Derek J. Sam,2016-05-07,29,M,O,Presque Isle,ME
+1522,Lionel Gibson,2016-05-08,21,M,B,Long Beach,CA
+1844,Arthur R. Williams,2016-05-09,33,M,B,El Paso,TX
+1520,Jaffort Smith,2016-05-09,33,M,B,St. Paul,MN
+1524,Christian Bowman,2016-05-09,23,M,W,St. Martin,MS
+1526,Michael Johnson,2016-05-09,26,M,W,Chicago,IL
+1528,Joseph Napoli,2016-05-09,59,M,,Hog Valley,FL
+1531,Jamie Stotts,2016-05-09,29,M,W,Nacogdoches,TX
+1532,Arthur DaRosa,2016-05-10,28,M,B,Taunton,MA
+1530,Stephen Schuster,2016-05-11,35,M,W,Aurora,CO
+1533,Thongsoune Vilaysane,2016-05-11,33,M,A,San Diego,CA
+1534,Sean Ryan Mondragon,2016-05-11,24,M,B,Greeley,CO
+1535,Steve Godfrey,2016-05-11,,M,W,Byng,OK
+1539,Robert Mark Diaz,2016-05-13,28,M,H,Boyle Heights,CA
+1536,Cody Marsh,2016-05-14,19,M,W,Jacksonsville,FL
+1537,Francis Clark,2016-05-14,43,M,N,Phoenix,AZ
+1538,Jeffrey Sims,2016-05-14,59,M,W,Osteen,FL
+1540,Ryan Johnson,2016-05-14,34,M,W,Stockbridge,GA
+1541,"Dracy ""Clint"" Pendleton",2016-05-15,35,M,W,Shawnee National Forest,IL
+1542,Jabril Robinson,2016-05-16,23,M,B,Riverdale,GA
+1544,Luke Sanders,2016-05-17,36,M,W,Siskiyou County,CA
+1543,Garry Conrad,2016-05-18,46,M,W,New York,NY
+1545,Joseph Weatherby,2016-05-18,44,M,W,Sullivan,MO
+1546,Israel Santos-Banos,2016-05-18,20,M,H,Phoenix,AZ
+1547,Jeremias Cruz,2016-05-19,30,M,H,Las Vegas,NV
+1548,Jessica Nelson-Williams,2016-05-19,29,F,B,San Francisco,CA
+1549,Jaime Ide,2016-05-19,35,M,H,Citrus Heights,CA
+1550,Timothy Brandon Stacy,2016-05-19,36,M,W,Fisty,KY
+1551,Kentrill William Carraway,2016-05-19,22,M,B,Miami,FL
+1559,Joshua Beebee,2016-05-20,31,M,B,Omaha,NE
+1552,Norman Campbell,2016-05-21,63,M,W,Chesterfield County,SC
+1553,Travis Moore,2016-05-21,38,M,W,Oregon City,OR
+1556,Mark Nelson,2016-05-21,31,M,N,Flagstaff,AZ
+1554,Michael Eugene Wilson Jr.,2016-05-22,27,M,B,Hallandale Beach,FL
+1555,Jorge Zambrano,2016-05-22,35,M,H,Oxford,MA
+1562,Vernell Bing,2016-05-22,22,M,B,Jacksonville,FL
+1563,Bryson Fischer,2016-05-22,28,M,W,Boulder,CO
+1560,Verl Bedonie,2016-05-23,26,M,N,Flagstaff,AZ
+1561,Bodhi Wilson Dean Phelps,2016-05-24,22,M,W,Gresham,OR
+1564,Leslie Goletz,2016-05-24,57,M,,Harrisonville,MO
+1567,Mario Montoya,2016-05-24,31,M,H,Albuquerque,NM
+1565,Derek Prophet,2016-05-25,43,M,W,Oklahoma City,OK
+1566,Doll Pierre-Louis,2016-05-25,24,M,B,Miami Gardens,FL
+1568,"Eugene ""Geno"" Francis Smith",2016-05-26,29,M,W,St. Paul,MN
+1569,Warren Christian,2016-05-26,43,M,W,Lansing,IL
+1570,TK Tk,2016-05-26,,M,,San Antonio,TX
+1571,Devonte Gates,2016-05-26,21,M,B,Washington Park,IL
+1572,Fernando Castro,2016-05-26,19,M,H,Solvang,CA
+1581,Tk Tk,2016-05-26,,F,,Sneads,FL
+1583,Angel Daniel Navarro,2016-05-26,25,M,H,Socorro,NM
+1580,Terry Edwards,2016-05-27,59,M,W,Indianapolis,IN
+1576,Dennis Hudson,2016-05-28,50,M,B,Eastaboga,AL
+1582,Dennis Humphrey,2016-05-28,58,M,W,Albuquerque,NM
+1573,Dionisio Augustine Garza III,2016-05-29,25,M,H,Houston,TX
+1577,Donald Edward Brown III,2016-05-29,32,M,W,Deland,FL
+1578,John Mark Coffey,2016-05-29,53,M,W,Clinton,NC
+1579,Todd Brent Burroughs,2016-05-29,38,M,W,Stoneville,NC
+1574,Robert Wickizer,2016-05-30,70,M,W,Tualatin,OR
+1575,Osee Calix,2016-05-30,33,M,B,Tucson,AZ
+1585,Nicholas Berger,2016-05-31,36,M,W,Bend,OR
+1584,TK TK,2016-06-01,,M,,Phoenix,AZ
+1586,Michael Johnson,2016-06-01,21,M,B,Newnan,GA
+1587,Daniel Pigg,2016-06-01,51,M,W,Berea,KY
+1588,Willie Demetrius James,2016-06-02,43,M,B,Norfolk,VA
+1589,Rodney Rodriguez Smith,2016-06-02,18,M,B,Charlotte,NC
+1590,Joshua Smith,2016-06-03,33,M,W,Wasilla,AK
+1591,"Hubert Thomas Burns, Jr.",2016-06-03,34,M,N,Parker,AZ
+1592,Daniel Jonathan Shaham,2016-06-04,31,M,,Yreka,CA
+1594,Demarco Rhymes,2016-06-04,35,M,B,Eufaula,AL
+1598,Larry Dustin Stepp,2016-06-04,31,M,W,Muncie,IN
+1593,Christopher Michael Moran,2016-06-05,31,M,W,Cape Coral,FL
+1595,Henry Green,2016-06-06,23,M,B,Columbus,OH
+1597,Kalyp Allen Rapoza,2016-06-06,25,M,O,Hilo,HI
+1596,Andrew Henson,2016-06-07,25,M,W,Wagoner,OK
+1599,Omar Villagomez,2016-06-07,21,M,H,Turlock,CA
+1601,Willis N. Walker,2016-06-07,49,M,B,Norman,VA
+1604,William David Powell,2016-06-07,63,M,W,Stockbridge,GA
+1602,Carlos Garcia,2016-06-08,43,M,H,Kansas City,MO
+1603,William Michael Hollis,2016-06-09,34,M,W,Birmingham,AL
+1605,James Allen Nickol,2016-06-09,38,M,W,York,PA
+1606,John Michael Brisco,2016-06-09,52,M,B,Port Arthur,TX
+1607,Clifford Tucker,2016-06-09,68,M,W,Ishpeming Township,MI
+1615,TK TK,2016-06-09,,M,,Somerton,AZ
+1838,Keith Bursey,2016-06-10,31,M,B,Los Angeles,CA
+1611,Clayton Millsaps,2016-06-10,29,M,W,Iredell County,NC
+1613,Bobby Sanchez,2016-06-10,32,M,H,Pueblo,CO
+1614,J. Juan Briseno-Ortega,2016-06-10,50,M,H,Yakima,WA
+1612,Lyndarius Cortez Witherspoon,2016-06-11,27,M,B,Tupelo,MS
+1616,Jesus Duran,2016-06-11,31,M,H,Maywood,CA
+1608,Omar Mateen,2016-06-12,29,M,O,Orlando,FL
+1609,Daniel Bennett Edwards,2016-06-12,23,M,W,Eagle Mountain,UT
+1617,John Williams,2016-06-12,61,M,B,Hiseville,KY
+1619,Joshua Sciscm,2016-06-13,33,M,W,Schenectady,NY
+1620,Michael Moore,2016-06-13,18,M,B,Mobile,AL
+1621,Edward Acquisto,2016-06-13,80,M,H,Tiverton,RI
+1623,Kenneth Allen Pointer,2016-06-13,43,M,W,Vancouver,WA
+1618,Noel Rodriguez,2016-06-14,50,M,H,Boise,ID
+1622,Nicholas Ferro,2016-06-14,47,M,W,Odessa,MO
+1624,Mohammad Moghaddam,2016-06-14,54,M,O,Amarillo,TX
+1625,Fernando Geovanni Llanez,2016-06-14,22,M,H,Chula Vista,CA
+1626,Russell Rosser,2016-06-15,43,M,W,Tulsa,OK
+1627,Michael Rasmussen,2016-06-15,38,M,W,Pembine,WI
+1837,Ronald Delfino,2016-06-16,21,M,H,Albuquerque,NM
+1628,Peter Grandpre,2016-06-16,36,M,W,Butte,MT
+1629,Nicholas Damon,2016-06-16,30,M,H,Westminster,CO
+1630,John Anderson,2016-06-16,,M,,Montpelier,OH
+1633,William Thomas Hennessey,2016-06-18,34,M,W,Huntsville,AL
+1634,Sergey Makarenko,2016-06-18,17,M,W,Carmichael,CA
+1637,Antwun Shumpert,2016-06-18,37,M,B,Tupelo,MS
+1631,Rashaun Lloyd,2016-06-19,25,M,B,New York,NY
+1635,Anthony Ford,2016-06-19,30,M,,Fort Walton Beach,FL
+1632,Raufeal M. Bostick,2016-06-20,23,M,B,Hardeeville,SC
+1638,Devin Christopher Scott,2016-06-20,20,M,W,Lake Havasu City,AZ
+1640,Lane Lesko,2016-06-21,19,M,W,Peterborough,NH
+1642,Jeff Hyde,2016-06-21,50,M,W,Casper,WY
+1643,Pedro Cruz-Amado,2016-06-21,24,M,H,Lawndale,NC
+1641,Josiah Williams,2016-06-22,25,M,W,Colorado Springs,CO
+1644,Isaiah Core,2016-06-22,20,M,B,Birmingham,AL
+1645,Roger Ponce,2016-06-22,37,M,W,Wellington,FL
+1646,Quencezola Maurice Splunge,2016-06-22,44,M,B,Walls,MS
+1647,Deravis Caine Rogers,2016-06-22,22,M,B,Atlanta,GA
+1651,Shaun Trevor Walke,2016-06-22,31,M,W,Bellville,TX
+1648,Jay Anderson,2016-06-23,25,M,B,Wauwatosa,WI
+1649,Angelo Brown,2016-06-23,,M,B,Belleville,IL
+1662,Josh Herrera,2016-06-23,29,M,,Hanover,NM
+1650,Ismael Miranda,2016-06-24,36,M,B,Paterson,NJ
+1657,Randy Blecher,2016-06-24,50,M,W,Farmington,AR
+1658,Christy Sheats,2016-06-24,42,F,W,Fulshear,TX
+1660,Miguel Angel Chavez-Angles,2016-06-24,42,M,H,Oklahoma City,OK
+1728,Jamil Alejandro Valladares,2016-06-24,26,M,H,Riverview,FL
+1653,Dylan Noble,2016-06-25,19,M,W,Fresno,CA
+1654,Waldemar Bogusiewicz,2016-06-25,59,M,W,Pinellas Park,FL
+1661,Rodrigo Guardiola,2016-06-25,36,M,H,Gainesville,GA
+1664,William Ferguson,2016-06-25,,M,,Buckeye,AZ
+1655,Terry Lynn Maurer,2016-06-26,51,M,W,Columbia Township,MI
+1656,Daniel Reyes,2016-06-26,27,M,H,Thomaston,CT
+1659,Germichael Kennedy,2016-06-26,22,M,B,Lincoln,NE
+1663,Donte L. Johnson,2016-06-26,30,M,B,Dolton,IL
+1665,Michael Disbrowe,2016-06-27,28,M,W,Boone,IA
+1666,Sherman Evans,2016-06-27,63,M,B,Washington,DC
+1667,Blake Peacock,2016-06-27,32,M,W,Cochran,GA
+1668,Travis Vierra,2016-06-27,26,M,W,Laguna Pueblo,NM
+1669,Raymond Hutson,2016-06-27,25,M,W,Frederica,DE
+1670,Barry Prak,2016-06-28,27,M,A,Long Beach,CA
+1671,Walden Dang,2016-06-28,61,M,A,Honolulu,HI
+1672,Jessie J. Mills,2016-06-29,30,M,W,Barbourville,KY
+1673,Tyrone Reado,2016-06-29,,M,B,Ouachita Parish,LA
+1674,Lafayette Evans,2016-06-29,37,M,B,Fort Madison,IA
+1675,Michael William Schumacher,2016-06-29,41,M,W,Madison,WI
+1676,Kawme Dejuan Patrick,2016-06-30,25,M,B,Columbus,OH
+1677,Tristan Vilters,2016-06-30,24,M,W,Park County,CO
+1678,Jasen Scott Ramirez,2016-06-30,44,M,H,Douglas,WY
+1686,Alexis George Mishtowt,2016-07-01,63,M,W,Landrum,SC
+1687,Steven McQueen,2016-07-01,30,M,W,Cartersville,GA
+1688,Helmut Wihowski,2016-07-01,58,M,W,Jackson,WI
+1682,Jai Lateef Solveig Williams,2016-07-02,35,M,B,Asheville,NC
+1689,Jonathan Lane Justiss,2016-07-02,50,M,W,Bristol,TN
+1684,Shannon Labit,2016-07-03,40,M,W,New Iberia,LA
+1690,Raul Saavedra-Vargas,2016-07-03,,M,H,Reno,NV
+1691,Pedro Villanueva,2016-07-03,19,M,H,Fullerton,CA
+1679,William Tracy Patterson,2016-07-04,34,M,W,North Charleston,SC
+1681,Anthony Nunez,2016-07-04,18,M,H,San Jose,CA
+1683,Sidney Washington,2016-07-04,21,M,B,Washington,DC
+1685,TK TK,2016-07-04,,M,,Rosser,TX
+1680,Alton Sterling,2016-07-05,37,M,B,Baton Rouge,LA
+1692,Joshua Bolster,2016-07-05,29,M,W,Salem,OR
+1693,Sam Newby,2016-07-05,49,M,W,Temecula,CA
+1695,Melissa Ventura,2016-07-05,24,F,H,Yuma,AZ
+1694,Philando Castile,2016-07-06,32,M,B,Falcon Heights,MN
+1696,Thomas Vandemark,2016-07-06,65,M,W,Rush Springs,OK
+1697,Vinson Lee Ramos,2016-07-07,37,M,H,Bell,CA
+1698,Adam Smith,2016-07-07,33,M,W,Clovis,CA
+1699,Earnest Fells,2016-07-07,63,M,B,Selma,AL
+1700,Abraham Smith,2016-07-08,30,M,W,Tucson,AZ
+1701,Andre Johnson,2016-07-09,40,M,B,Broken Bow,OK
+1702,Alva Burnett Braziel,2016-07-10,38,M,B,Houston,TX
+1703,Joseph Mann,2016-07-11,50,M,B,Sacramento,CA
+1704,Jason Brooks,2016-07-11,41,M,B,East St. Louis,IL
+1705,Pablo Medina,2016-07-11,41,M,H,Romulus,MI
+1706,Orville Edwards,2016-07-11,39,M,B,New York,NY
+1711,Larry Darnell Gordon,2016-07-11,44,M,W,St. Joseph,MI
+1707,Benjamin Zeckovic,2016-07-12,23,M,W,Anchorage,AK
+1708,Donald S. Myers,2016-07-13,32,M,W,Flagstaff,AZ
+1709,Richard G. Dinneny,2016-07-13,56,M,W,Middletown,NY
+1710,Dayten Ernest Harper,2016-07-14,33,M,B,Baltimore,MD
+1713,Bobby Horne,2016-07-15,63,M,W,Peachland,NC
+1716,Billy D. Smith,2016-07-16,31,M,W,Lake Asbury,FL
+1719,Cody Wayne Jarrett,2016-07-16,26,M,W,San Bernardino,CA
+1720,Patrick Fennell,2016-07-16,57,M,W,Little Egg Harbor Township,NJ
+1712,Kevin Higgins,2016-07-17,39,M,W,Sheboygan,WI
+1714,Michael Ray Ramsey,2016-07-17,43,M,W,Tulsa,OK
+1717,Jermaine Johnson,2016-07-17,42,M,B,New York,NY
+1718,Gavin Eugene Long,2016-07-17,29,M,B,Baton Rouge,LA
+1721,Jerry Brimer,2016-07-18,56,M,W,Tulsa,OK
+1722,Javier Garcia Gaona,2016-07-20,31,M,H,Santa Maria,CA
+1723,Derek Love,2016-07-21,50,M,B,Chicago,IL
+1724,BJ Medeiros,2016-07-21,36,M,O,Hilo,HI
+1725,Paul Edward Yacabitis,2016-07-22,50,M,W,Buckhannon,WV
+1836,Steven Alfred Longoria,2016-07-23,34,M,H,San Antonio,TX
+1726,Austin Jerry Lee Howard,2016-07-23,49,M,B,Milwaukee,WI
+1727,Bernard Wells,2016-07-23,31,M,B,Chino,CA
+1729,Robert Lee Lourenco,2016-07-24,36,M,W,Winchester,CA
+1730,Alvin R. Sylversmythe,2016-07-24,29,M,N,Gallup,NM
+1731,Jeff Cornell Tyson,2016-07-25,32,M,B,Indianapolis,IN
+1732,Richard Risher,2016-07-25,18,M,B,Los Angeles,CA
+1733,Scot Minard,2016-07-26,50,M,W,Pine River,WI
+1734,Juan Reynaldo Duran,2016-07-26,36,M,H,Artesia,NM
+1835,Michael Adams,2016-07-27,33,M,W,Estill Springs,TN
+1735,Devon Martes,2016-07-27,17,M,B,Metairie,LA
+1736,Dalvin Hollins,2016-07-27,19,M,B,Tempe,AZ
+1739,Dylan Liberti,2016-07-27,24,M,W,Scottsdale,AZ
+1740,Saddam Trejeda-Campos,2016-07-27,24,M,H,San Bernardino,CA
+1746,Emil Ambrose Mecklenburg,2016-07-27,20,M,W,Malta,MT
+1737,Jorge Moreno-Aguirre,2016-07-28,41,M,H,Sparks,NV
+1741,Jeffrey Smith,2016-07-28,47,M,B,La Quinta,CA
+1742,Paul O'Neal,2016-07-28,18,M,B,Chicago,IL
+1743,Jesus Rael,2016-07-28,31,M,H,Tucson,AZ
+1744,Donnell Thompson,2016-07-28,27,M,B,Compton,CA
+1745,Omar Gonzalez,2016-07-28,36,M,H,City Terrace,CA
+1834,Melvin Faison,2016-07-29,59,M,W,Pleasant Hill,NC
+1747,Amanda Page Bivens,2016-07-29,40,F,W,Homewood,AL
+1748,John Casey,2016-07-31,32,M,W,Phelps,KY
+1749,Mario Martinez Torres,2016-07-31,38,M,H,Wapato,WA
+1752,Limichael Shine,2016-07-31,18,M,A,Manchester,NJ
+2148,Richard Swihart,2016-08-01,32,M,,Santa Ana,CA
+1750,Korryn Gaines,2016-08-01,23,F,B,Randallstown,MD
+1751,Bryan N. Byrd,2016-08-01,43,M,W,Edmund,SC
+1753,Kenneth Eugene Bonanno,2016-08-01,67,M,W,Stafford,VA
+1754,Richard Lance London,2016-08-02,22,M,W,Lake City,SC
+1757,Adam Jo Klimek,2016-08-02,31,M,W,Alexandria,MN
+1758,DeMarco Newman,2016-08-02,43,M,B,Palm Bay,FL
+1759,Matthew David Conrad,2016-08-02,34,M,W,Hammett,ID
+1760,William Bowers,2016-08-02,51,M,W,Castaic,CA
+1755,Benjamin William Heaton,2016-08-03,31,M,W,Clearfield,UT
+1756,Bradley Carey,2016-08-03,54,M,W,Detroit,MI
+1761,E.J. Walters,2016-08-03,69,M,W,Scott County,VA
+1762,Johannes Wood,2016-08-05,58,M,W,Aldie,VA
+1767,Jamarion Rashad Robinson,2016-08-05,26,M,B,East Point,GA
+1769,David Michael Moya,2016-08-05,31,M,,Santee,CA
+1770,James Quealy,2016-08-05,59,M,W,Beaver Dam,WI
+1763,Jawari Porter,2016-08-07,25,M,B,Cincinnati,OH
+1764,Earl Pinckney,2016-08-07,20,M,B,Harrisburg,PA
+1833,James W. Jennings,2016-08-08,69,M,W,Little Mountain,SC
+1766,Darnell Wicker,2016-08-08,57,M,B,Louisville,KY
+1771,Michael McClurg,2016-08-08,56,M,W,Citrus Heights,CA
+1773,James Eugene Burgess,2016-08-08,64,M,W,Wilkesboro,NC
+1774,Juan J. Godines,2016-08-08,34,M,H,Georgetown,KY
+1775,Ronald Smith,2016-08-09,45,M,W,Circleville,OH
+1776,Jesse James Romero,2016-08-09,14,M,H,Los Angeles,CA
+1777,Jeffrey Allen Morris,2016-08-09,44,M,W,Piedmont,SC
+2149,Tommy Seneca,2016-08-11,54,M,W,Plaquemine,LA
+1778,Jeff Martelli,2016-08-11,59,M,W,Tukwila,WA
+1785,Sergio Daniel Weick,2016-08-11,33,M,H,Vista,CA
+1782,Jesus Armando Carillo,2016-08-12,22,M,H,Mesa,AZ
+1783,Dominic Rollice,2016-08-12,49,M,W,Tahlequah,OK
+1832,Eric Ortega Soto,2016-08-13,36,M,H,Hayward,CA
+1780,Sylville Smith,2016-08-13,23,M,B,Milwaukee,WI
+1781,Ruben Horacio Strand Alvear,2016-08-13,38,M,H,Phoenix,AZ
+1784,Perry Lee Heitman,2016-08-13,53,M,W,Lakewood,CO
+1786,Jovany Martinez,2016-08-15,29,M,H,Falls Church,VA
+1788,Danny Pirtle,2016-08-15,42,M,W,Counce,TN
+1792,Marcos Antonio Gastelum,2016-08-16,25,M,H,Tucson,AZ
+1795,Kenney Watkins,2016-08-16,18,M,B,Los Angeles,CA
+2145,John O'Handley,2016-08-16,55,M,W,Augusta,WV
+1787,Michael S. Martin,2016-08-16,36,M,W,Rome,OH
+1789,Carl Nivens,2016-08-16,32,M,W,Lenoir,NC
+1790,Larry Eugene Kurtley,2016-08-16,53,M,W,Apache Junction,AZ
+1791,Colby Friday,2016-08-16,30,M,B,Stockton,CA
+1793,Omer Ismail Ali,2016-08-17,27,M,B,Kelso,WA
+1794,Francisco Villarreal,2016-08-18,37,M,H,Bakersfield,CA
+1796,Daniel Kevin Harris,2016-08-18,29,M,W,Charlotte,NC
+1797,Chad Irwin,2016-08-18,40,M,W,Antelope,CA
+1798,Joseph Weber,2016-08-18,36,M,W,Hays,KS
+1801,Trenton Lohman,2016-08-18,38,M,W,Poway,CA
+1807,David Klassen,2016-08-18,29,M,W,Ruidoso,NM
+1831,David Fulton,2016-08-18,59,M,W,McKinneyville,CA
+1799,Marcelo Luna,2016-08-19,47,M,H,East Hollywood,CA
+1800,Jorge Ceniceros,2016-08-19,22,M,H,Phoenix,AZ
+1806,Kole B. Knight,2016-08-19,31,M,W,New London,WI
+1808,Kyle Zimbelman,2016-08-19,29,M,W,Reno,NV
+1810,Todd P. Browning,2016-08-19,54,M,W,East Ridge,TN
+1803,Pedro Montanez,2016-08-20,71,M,H,Indio,CA
+1804,Juan Gabriel Torres,2016-08-21,36,M,H,Las Cruces,NM
+1802,Kelley Brandon Forte,2016-08-22,34,M,B,Hamilton,OH
+1812,Bobby Lyn Buck,2016-08-23,49,M,W,Myra,TX
+1811,Elias Portillo,2016-08-24,36,M,H,Oak Cliff,TX
+1813,William Charbonneau,2016-08-24,43,M,W,Orlando,FL
+1814,Jeffrey Darren Hosea,2016-08-24,53,M,W,Shelbyville,TN
+1815,Jerry Lee Jackson,2016-08-25,63,M,,Fort Collins,CO
+1816,Donta Taylor,2016-08-25,31,M,B,Compton,CA
+2144,David Coborubio,2016-08-25,32,M,H,Compton,CA
+1817,Matthew Gibbon,2016-08-26,41,M,W,Las Vegas,NV
+1820,Angel Torres Jr.,2016-08-27,26,M,H,Phoenix,AZ
+1821,Terry Salazar,2016-08-27,49,M,,Denver,CO
+1822,Darrel Hetrick,2016-08-27,82,M,W,Morgantown,WV
+1818,Justin Kulhanek-Derks,2016-08-28,37,M,W,Eagan,MN
+1823,Jaqwan Julius Terry,2016-08-29,24,M,B,Raleigh,NC
+1824,Michael Peacor,2016-08-29,56,M,W,San Bernardino,CA
+1826,Paula Dell Phillips,2016-08-29,35,F,W,Kingman,AZ
+1829,James Robert Richards,2016-08-29,28,M,,Fairbanks,AK
+1825,Justin Baker,2016-08-30,36,M,,Graham,WA
+1827,Levonia Riggins,2016-08-30,22,M,B,Tampa,FL
+1828,Lyle Patrick Blanchard,2016-08-30,59,M,W,Harker Heights,TX
+1830,Gregory Mathis,2016-08-30,36,M,W,Weatherford,TX
+1841,Michael Ferguson,2016-08-31,21,M,W,Denver,CO
+1870,Thomas E. Sekscinski,2016-08-31,38,M,W,McDowell,MO
+1839,Ed Holup,2016-09-01,60,M,W,Sylvania Township,OH
+1843,Caleb J. Douglas,2016-09-01,18,M,W,Wichita,KS
+1847,Joshua Quintero,2016-09-01,23,M,H,Florence,CA
+1848,TK TK,2016-09-01,,M,H,Huntington Park,CA
+1849,Joseph Moreno,2016-09-02,38,M,H,Alamogordo,NM
+1850,Randall Rodick,2016-09-02,40,M,,Parker,CO
+1853,Michael Robert Musson,2016-09-02,22,M,W,Round Lake,IL
+1856,Michael Thompson,2016-09-02,38,M,B,St. Louis,MO
+1854,Jerome Damon,2016-09-03,25,M,B,Atlantic City,NJ
+1855,Cameron Ayers,2016-09-03,25,M,W,East Wenatchee,WA
+1860,Donny Max Daugherty,2016-09-03,36,M,W,Metropolis,IL
+1861,Jeremiah Richard Ramirez,2016-09-03,,M,,Temple,TX
+1852,Jose Romero,2016-09-04,,M,H,Long Beach,CA
+1859,Simon Gomez,2016-09-04,44,M,H,Grand Junction,CO
+1851,Moses Ruben,2016-09-05,36,M,B,Ellis County,TX
+1858,Cesar Garcia,2016-09-05,35,M,H,Austin,TX
+1862,David L. Anderson,2016-09-06,25,M,W,Omaha,NE
+1863,Bernard Cottrell,2016-09-06,65,M,,Spencer,WV
+1864,Steven Del Rio,2016-09-06,31,M,H,Phoenix,AZ
+1865,Larry Grant Whitehead,2016-09-06,70,M,W,Gray,TN
+1868,Dylan Papa,2016-09-06,25,M,W,Phoenix,AZ
+1867,Robert Lee Brown,2016-09-07,55,M,B,Albany,GA
+1869,Jesse Daniel Joynt,2016-09-07,35,M,W,Titusville,FL
+1871,Sadiq Bishara-Abaker Idris,2016-09-07,25,M,B,Wyoming,MI
+1872,Francis Perry,2016-09-08,32,M,W,Lakeland,FL
+1873,Jose Torres,2016-09-08,38,M,H,Delhi,CA
+1874,Ricardo Tenorio,2016-09-09,32,M,H,Memphis,TN
+1876,Travis Ell,2016-09-09,64,M,W,Auburn,WA
+1879,Gregory Frazier,2016-09-09,55,M,B,Pompano Beach,FL
+1877,Dennis Claude Stanley,2016-09-10,69,M,W,Montcalm,WV
+1897,Adrian Joseph Shaffer,2016-09-10,37,M,W,Boulder,CO
+1875,Terrence Sterling,2016-09-11,31,M,B,Washington,DC
+1880,Eugene Craig,2016-09-12,86,M,,Saratoga,CA
+1881,Markell Bivins,2016-09-12,25,M,B,Cedar Rapids,IA
+1882,Christian Vargas,2016-09-12,25,M,H,Colton,CA
+1883,Tyre King,2016-09-14,13,M,B,Columbus,OH
+1884,Robert Carrillo,2016-09-15,32,M,H,Phoenix,AZ
+1885,Morgan Wayne Crocker,2016-09-15,34,M,W,Austin,TX
+1886,Joseph Allen Schlosser,2016-09-15,69,M,W,Weeki Wachi,FL
+1887,Thomas P. Mone,2016-09-16,46,M,,Big Bear,MO
+1888,Terence Crutcher,2016-09-16,40,M,B,Tulsa,OK
+1889,Jesse Beshaw,2016-09-16,29,M,N,Winooski,VT
+1893,Lucas Anderson,2016-09-16,29,M,W,Owensboro,KY
+1890,Robert Duh,2016-09-17,42,M,W,Beaumont,CA
+1894,Nicholas Glenn,2016-09-17,25,M,B,Philadelphia,PA
+1895,Robert Young,2016-09-17,45,M,W,Huntsville,AL
+1896,William Joseph Ryan,2016-09-17,55,M,W,Rutherfordton,NC
+1898,Dahir Adan,2016-09-17,22,M,O,St. Cloud,MN
+1891,Philip Hasan,2016-09-18,61,M,B,Akron,OH
+1900,Michelle Miller,2016-09-19,46,F,W,Spring,TX
+1902,Jeremy Ray Swenson,2016-09-19,30,M,W,Logan Canyon,UT
+1907,Gary Don Lafon,2016-09-19,56,M,W,Wood County,TX
+1899,Charles Dove,2016-09-20,35,M,W,Decatur County,TN
+1901,Joshua Scott,2016-09-20,22,M,W,Port St. Lucie,FL
+1903,Michael Goodale,2016-09-20,23,M,W,Mashantucket,CT
+1904,Keith Lamont Scott,2016-09-20,43,M,B,Charlotte,NC
+1905,Sandy Joe Duke,2016-09-20,43,M,W,Nashville,TN
+1906,Thomas Tucker,2016-09-20,49,M,W,Westminster,CO
+1908,Austin M. Baier,2016-09-21,23,M,W,Louisville,NE
+1909,Jesse Ataway,2016-09-23,41,M,W,Fair Oaks,CA
+1914,Oddis Bernard Colvin,2016-09-23,33,M,B,Pikesville,MD
+1915,Christopher Contreras,2016-09-23,30,M,H,San Antonio,TX
+1910,Cody Lafont,2016-09-25,25,M,W,Claremont,NH
+1911,Anthony Ray Bauer,2016-09-26,52,M,W,Garden City,ID
+1912,Leeland White,2016-09-26,32,M,W,Little Rock,AR
+1916,Nathan DeSai,2016-09-26,46,M,W,Houston,TX
+1917,Jamie Joseph Lewis,2016-09-26,48,M,W,Burnsville,MN
+1918,Alfred Olango,2016-09-27,38,M,B,El Cajon,CA
+1941,John Ethan Carpentier,2016-09-27,26,M,W,Phoenix,AZ
+1919,Christopher Sowell,2016-09-28,32,M,B,Philadelphia,PA
+1920,Johnathan Lozano-Murillo,2016-09-28,28,M,H,Valdosta,GA
+1921,Jeffrey Clair Cave,2016-09-29,53,M,W,Kingman,AZ
+1926,Clayton Eugene Baker,2016-09-30,38,M,W,Groveton,TX
+1927,George Richards-Meyers,2016-09-30,18,M,B,Newark,NJ
+1928,Douglas Marrickus Rainey,2016-09-30,32,M,B,Campobello,SC
+1929,Richard Parent,2016-09-30,37,M,W,Belleville,MI
+1930,Najier Salaam,2016-09-30,18,M,B,Newark,NJ
+1931,Jacquarius M. Robinson,2016-09-30,20,M,B,Columbus,OH
+1923,Joshua Allen Perry,2016-10-01,28,M,W,Hometown,WV
+1925,Carnell Snell,2016-10-01,18,M,B,Los Angeles,CA
+1922,Daniel Perez,2016-10-02,16,M,H,Los Angeles,CA
+1924,Donte T. Jones,2016-10-02,36,M,B,Markham,IL
+1932,Robert Dapkus,2016-10-03,57,M,W,Lynn,MA
+1933,John H. Fetter,2016-10-03,49,M,W,Ventnor,NJ
+1935,Isaias Salgado,2016-10-04,31,M,H,Riverview,FL
+1936,Zachary Sutton,2016-10-04,26,M,W,Springdale,AR
+1938,Dean Bruning,2016-10-04,51,M,W,Hessel,MI
+1937,Brandon Simmons,2016-10-05,28,M,W,Boulder,CO
+1939,Lucas M. Felkel,2016-10-05,35,M,W,Moncks Corner,SC
+1944,Larry Daniel Matthews,2016-10-07,57,M,B,Macon,GA
+1945,Joseph S. Schroeder,2016-10-07,36,M,W,Fort Wayne,IN
+1946,Eddie Collins,2016-10-07,42,M,W,Killeen,AL
+1948,Christopher Darnell Shackleford,2016-10-07,,M,B,Alexandria,LA
+1953,Thomas Jeffery Burns,2016-10-07,49,M,W,Benton,AR
+2143,Charles Antrup,2016-10-08,62,M,W,Fort Wayne,IN
+1942,Ricardo Hernandez,2016-10-08,21,M,H,Federal Way,WA
+1947,Dylan Rogers,2016-10-08,39,M,,Wetumka,OK
+1956,Kim Jackson,2016-10-08,53,F,W,Modesto,CA
+1943,Deric J. Brown,2016-10-09,41,M,B,Syracuse,NY
+1954,Luis Michael Hoff,2016-10-09,40,M,W,Scottsdale,AZ
+1949,Dennis Hunt,2016-10-10,50,M,,Lumberton,NC
+1950,Maurico Barron,2016-10-10,27,M,H,Irvine,CA
+1951,Kheyanev Littledog,2016-10-10,19,M,N,Midland,TX
+1952,Devan Desnoyers,2016-10-10,26,M,W,Westlake,OH
+1957,Michael L. Taylor,2016-10-11,44,M,A,Seattle,WA
+1958,Dominick Musulman,2016-10-11,30,M,W,Concord,CA
+1959,Blaine J. Beason,2016-10-12,31,M,W,Livingston Parish,LA
+1960,Kirk Figueroa,2016-10-12,33,M,B,Boston,MA
+1961,Matthew Brewer,2016-10-12,22,M,W,Morehead,KY
+1962,Rex Vance Wilson,2016-10-13,50,M,,Las Vegas,NV
+1963,Shawn Pappe,2016-10-13,46,M,W,Grants Pass,OR
+1964,Patrick D. Reddeck,2016-10-13,38,M,W,Kent,WA
+1965,Chaz Logan York,2016-10-14,23,M,W,Beaumont,TX
+1969,George Zapata,2016-10-14,24,M,H,Oak Cliff,TX
+1970,Nicholas McWherter,2016-10-14,26,M,W,San Francisco,CA
+1968,Daniel Richard Murphy,2016-10-15,38,M,,Phenix City,AL
+1966,Micah Dsheigh Jester,2016-10-16,26,F,W,Austin,TX
+1967,Sean Arlt,2016-10-16,32,M,W,Santa Cruz,CA
+1971,Rolando Delgado,2016-10-17,50,M,H,Miami,FL
+1973,Keegan Schweikle,2016-10-17,17,M,W,Benton,AR
+1974,Eric St. Germain,2016-10-17,39,M,W,Holiday,FL
+1972,Darius Wimberly,2016-10-18,28,M,B,Benton Harbor,MI
+1975,Deborah Danner,2016-10-18,66,F,B,Bronx,NY
+1976,Salvador Reyes,2016-10-18,42,M,H,Tulsa,OK
+1979,Charles Stidham,2016-10-18,34,M,W,Paris,KY
+1977,Frank J. Sandor,2016-10-19,38,M,W,Willoughby,OH
+1978,Anthony Garcia,2016-10-19,24,M,,Dallas,TX
+1982,Javier Munoz,2016-10-19,28,M,H,Henderson,NV
+1980,Jacob DePetris,2016-10-20,29,M,W,Jacksonville,FL
+1983,William Frost,2016-10-21,58,M,W,Tulsa,OK
+1988,Renee Davis,2016-10-21,23,F,N,Muckleshoot Indian Reservation,WA
+1986,Nathaniel B. Dorough,2016-10-22,21,M,W,Westover,AL
+1984,Kristofer Daniel Youngquist,2016-10-23,45,M,W,Peterson,MN
+1985,Kenny Tomblin,2016-10-23,38,M,W,Edmonton,KY
+1987,Demetrius Mac Moore,2016-10-23,40,M,B,Colorado Springs,CO
+1989,Aaron Marquis Ballard,2016-10-24,19,M,B,North St. Louis,MO
+1990,Roy Lee Richards,2016-10-25,46,M,B,Little Rock,AR
+1991,Brandon Jones,2016-10-25,25,M,W,Elkton,MD
+1992,Chelsea M. Porter,2016-10-25,25,F,W,Elkton,MD
+1993,Brandon Millard,2016-10-25,37,M,W,Lincoln,CA
+1994,Malcolm Loren Hickson,2016-10-26,25,M,B,Carrollton,TX
+1996,William Clifford Cole,2016-10-26,36,M,W,Bartlesville,OK
+1995,Kyle Killough,2016-10-27,32,M,W,Billings,MT
+1997,Thad Demarco Hale,2016-10-27,33,M,B,San Antonio,TX
+1998,Edwin Amaya Maldonado,2016-10-27,24,M,H,Elberton,GA
+2000,Jay Johannes Holmgren,2016-10-28,37,M,W,Morris,MN
+2001,Jason King,2016-10-28,38,M,B,Sacramento,CA
+2002,Jun Wang,2016-10-28,45,M,A,North Royalton,OH
+1999,Terrence Coleman,2016-10-30,31,M,B,Boston,MA
+2003,Kenneth Jack Kennedy,2016-10-30,34,M,W,Kingman,AZ
+2004,Jordan Gonzales,2016-10-30,23,M,H,Corpus Christi,TX
+2005,Michael Dale Vance Jr.,2016-10-30,38,M,,Leedey,OK
+2006,Michelle Lee Shirley,2016-10-31,39,F,B,Torrance,CA
+2007,Jose Armando Cueva,2016-10-31,55,M,H,Chatsworth,CA
+2035,Ashley Sides,2016-10-31,31,F,W,Brookville,OH
+2008,Henry Simpson,2016-11-01,76,M,W,Carson City,NV
+2009,Wilton Henry,2016-11-02,59,M,W,Houma,LA
+2010,Jesse Jay Taylor,2016-11-02,40,M,W,West Jordan,UT
+2011,Ferguson Laurent,2016-11-03,23,M,B,Salisbury,NC
+2012,Dennis Kirk,2016-11-03,64,M,,Chambersburg,PA
+2013,Rita King,2016-11-03,56,F,,Loganville,GA
+2015,Abraham Ortiz,2016-11-04,26,M,H,Palm Springs,CA
+2016,Manuel Rosales,2016-11-04,35,M,H,New York,NY
+2017,John F. Zemola,2016-11-05,49,M,W,Lealman,FL
+2020,James Carl Coale,2016-11-05,36,M,W,Okemah,OK
+2021,Russell Elswick,2016-11-05,56,M,W,Clendenin,WV
+2022,Edward Lowell Hills,2016-11-05,59,M,,Beaver,WA
+2023,Patrick Wise,2016-11-05,34,M,W,Gladewater,TX
+2014,David Contreras,2016-11-06,33,M,H,Santa Ana,CA
+2018,Joel B. Keenan,2016-11-06,43,M,W,Aiken,SC
+2019,Randy J. Clark,2016-11-06,43,M,W,Bowling Green,KY
+2024,Jimmy L. Testa,2016-11-06,31,M,W,Maurice River,NJ
+2025,Christian Andrew Redwine,2016-11-06,17,M,W,Phenix City,AL
+2027,Joseph Newcomb,2016-11-06,32,M,W,Hensley,WV
+2026,Darryl Chisholm,2016-11-07,31,M,B,Philadelphia,PA
+2028,Kenton Kobza,2016-11-08,19,M,W,Hays,KS
+2031,Juan Ramos,2016-11-08,23,M,H,Denver,CO
+2032,Evan Cox,2016-11-08,26,M,W,Ashtabula,OH
+2033,Carlos Mendez,2016-11-08,45,M,H,Azusa,CA
+2034,Daniel Erickson,2016-11-09,36,M,W,Show Low,AZ
+2036,George Delacruz,2016-11-10,41,M,H,San Angelo,TX
+2038,John Pacuicrk,2016-11-10,53,M,W,Lakeland,FL
+2037,TK TK,2016-11-11,,M,,East Point,GA
+2039,Brian Gaither,2016-11-11,24,M,W,Grand Junction,CO
+2043,Marco Romero,2016-11-11,,M,H,Boise,ID
+2046,William Ray Score,2016-11-11,47,M,,Montrose County,CO
+2042,James Dale Ritchie,2016-11-12,40,M,W,Anchorage,AK
+2045,Richard T. Herrera,2016-11-12,29,M,H,Tucson,AZ
+2124,Jonathan M. Young,2016-11-13,38,M,,Bloomsburg,PA
+2040,Juan Carlos Fernandez,2016-11-13,22,M,H,San Diego,CA
+2041,Daniel Laguna,2016-11-13,21,M,H,Oklahoma City,OK
+2048,Rasheem Singletary,2016-11-15,25,M,B,York County,PA
+2049,Robert Daffern,2016-11-15,37,M,W,Webster,TX
+2047,Michael Cookson,2016-11-15,48,M,,Temecula,CA
+2050,Jose George Anthony Franco,2016-11-16,37,M,H,Whittier,CA
+2051,Edmund Leighty,2016-11-16,56,M,W,Redding,CA
+2052,Joseph Leland Fletcher,2016-11-18,35,M,W,Fort Walton Beach,FL
+2056,Samson Fleurant,2016-11-18,25,M,B,Port St. Lucie,FL
+2057,Dontrell Montrese Carter,2016-11-18,25,M,B,Ludowici,GA
+2058,Gabriel Parker,2016-11-18,48,M,,Casa Grande,AZ
+2059,Darius Jones,2016-11-18,26,M,B,Chicago,IL
+2053,Adalid Flores,2016-11-19,29,M,H,Anaheim,CA
+2054,Luke Smith,2016-11-19,15,M,A,Watsonville,CA
+2055,Steve Dwayne Vananda,2016-11-19,55,M,,Chickasha,OK
+2062,Erickson Brito,2016-11-19,21,M,B,Brooklyn,NY
+2061,Andrew Moreno,2016-11-20,24,M,H,San Antonio,TX
+2063,Jacob C. Stevens,2016-11-20,18,M,W,Kansas City,MO
+2060,George Bush III,2016-11-21,19,M,B,St. Louis,MO
+2064,Michael Giles,2016-11-21,27,M,W,Lompoc,CA
+2065,Mark Daniel Sly,2016-11-22,45,M,H,La Mirada,CA
+2066,Ivory C. Pantallion,2016-11-22,36,M,B,Baytown,TX
+2067,Frank Nathaniel Clark,2016-11-22,34,M,B,Durham,NC
+2068,Talif Scudder,2016-11-22,23,M,B,Newark,NJ
+2069,William J. Beavers,2016-11-23,43,M,W,Lealman,FL
+2070,David Leroy Thelen,2016-11-23,43,M,W,Holland Township,MI
+2073,Kajuan Raye,2016-11-23,19,M,B,Chicago,IL
+2074,Don Fitzgerald White,2016-11-24,45,M,,Jackson,TN
+2071,Cleotha Mitchell,2016-11-25,37,M,B,Chicago,IL
+2078,Jerome Chris Harmon,2016-11-25,23,M,B,Hattiesburg,MS
+2142,Carlos Valencia,2016-11-25,26,M,H,Tucson,AZ
+2077,Derek Adame,2016-11-26,20,M,H,Surprise,AZ
+2075,Walter R. Echols,2016-11-27,50,M,W,Olathe,KS
+2080,Norman J. Strobel,2016-11-27,59,M,W,Naples,ME
+2081,Richard Grimes,2016-11-27,33,M,B,Chicago,IL
+2082,Terrell Walker,2016-11-27,48,M,B,Baton Rouge,LA
+2083,Abdul Razak Ali Artan,2016-11-28,18,M,O,Columbus,OH
+2085,Pablo Renato Cartagena,2016-11-28,23,M,H,Los Angeles,CA
+2086,Irecas Valentine,2016-11-28,41,M,B,Hickory,NC
+2084,Michael McInnis,2016-11-29,41,M,W,Lynn,MA
+2088,Toby Cummins,2016-11-29,55,M,W,Friendswood,TX
+2089,Bradley King,2016-11-29,29,M,W,Avon,IN
+2090,Alexander Chance Partain,2016-11-29,31,M,W,Iva,SC
+2092,David K. Crosby-Dowdy,2016-11-30,25,M,B,Kansas City,MO
+2091,"Bruce Randall ""Zeus"" Johnson",2016-12-01,38,M,B,Tacoma,WA
+2093,Jose N. Barron Gomez,2016-12-01,,M,H,Tucson,AZ
+2095,Quinton Phillips,2016-12-01,83,M,W,Dover,AR
+2096,Dylan M. Dalzell,2016-12-02,22,M,W,Simpsonsville,KY
+2097,Derek Lynn Scott,2016-12-02,33,M,W,Tuscumbia,AL
+2099,Josh Dunne,2016-12-02,36,M,W,Las Cruces,NM
+2100,Isreal Flores,2016-12-03,38,M,,Metairie,LA
+2098,Saif Nasser Mubarek Alameri,2016-12-04,26,M,A,Hudson,OH
+2101,Norman Gary,2016-12-04,29,M,B,Elkhart,IN
+2103,Richard R. Jones,2016-12-06,55,M,W,Hutchinson,KS
+2104,Westley Daum,2016-12-06,47,M,W,Orange City,FL
+2105,Steven Wayne Liffel,2016-12-06,52,M,W,Portland,OR
+2106,Wayne Donald Dorsey,2016-12-06,49,M,W,Fruitland Park,FL
+2107,Mark Anthony Hicks,2016-12-07,31,M,B,Fayetteville,NC
+2108,Keelan Charles Murray,2016-12-07,37,M,W,Dallas,TX
+2109,Redrick Jevon Batiste,2016-12-07,37,M,B,Houston,TX
+2111,Daniel Riedmann,2016-12-07,36,M,W,Sioux City,IA
+2129,Steven Garrett Ward,2016-12-07,20,M,,Avella,PA
+2110,TK TK,2016-12-08,,M,,Allen,TX
+2115,Stephen Joshua Whitney,2016-12-09,30,M,O,Keaau,HI
+2119,Brent Quinn,2016-12-09,,M,W,Leland,NC
+2122,Scott MacIntosh,2016-12-09,35,M,W,Forks Township,PA
+2113,Waltki Williams,2016-12-10,35,M,B,Sumter,SC
+2116,Samson G. Varner,2016-12-10,36,M,W,Greenwood,IN
+2112,Timothy Case,2016-12-11,53,M,W,York,NE
+2118,Randy Lee Cumberledge,2016-12-11,39,M,W,Fairmont,WV
+2121,Jose Angel Vallarta,2016-12-11,30,M,H,Laredo,TX
+2123,Amber Lewis,2016-12-11,44,F,W,Bullhead City,AZ
+2127,Gary Leon Herd,2016-12-11,24,M,W,Medicine Lodge,KS
+2114,Francisco Serna,2016-12-12,73,M,H,Bakersfield,CA
+2120,Rainer Tyler Smith,2016-12-12,31,M,W,Fort Valley,GA
+2125,Kenneth Robledo,2016-12-12,28,M,B,Philadelphia,PA
+2126,Lavar Montray Douglas,2016-12-13,18,M,B,Baltimore,MD
+2128,Earl Labon Eubanks,2016-12-13,32,M,B,Hampton,GA
+2130,Robert James Hess,2016-12-15,60,M,W,Hacienda Heights,CA
+2138,Jeremiah N. Anderson,2016-12-16,36,M,,Dallas,OR
+2132,Jimmy Lee Lawson,2016-12-17,48,M,W,Arlington,TN
+2134,Fidel Barrios,2016-12-17,33,M,H,Los Angeles,CA
+2137,Chassady LeClair,2016-12-17,44,M,N,Everett,WA
+2133,Ryan Joseph,2016-12-18,20,M,B,Los Angeles,CA
+2135,Paul Kolar,2016-12-18,37,M,W,Ridgefield,WA
+2136,Ronald Roy Massengale,2016-12-18,72,M,W,Tulsa,OK
+2131,Roy Minton,2016-12-19,52,M,W,Granite Falls,NC
+2139,Nick Hamilton,2016-12-20,31,M,,Hemet,CA
+2140,Martin Gomez,2016-12-20,46,M,H,Pharr,TX
+2141,TK TK,2016-12-20,,M,,Brawley,CA
+2146,Ian Shea King,2016-12-21,31,M,,Ponca City,OK
+2147,Colton Calaway,2016-12-21,25,M,W,Burns Flat,OK
+2151,William Newman,2016-12-21,46,M,,Knox,IN
+2152,Raymond Salaiz,2016-12-21,38,M,H,Reno,NV
+2153,Benjamin Ortiz,2016-12-21,25,M,,Fayetteville,AR
+2154,TK TK,2016-12-21,,M,,Stockton,CA
+2156,Matthew Blake Richardson,2016-12-21,27,M,W,Saraland,AL
+2157,Anthony Lovell Eddington,2016-12-21,24,M,B,Coalinga,CA
+2150,Terrence Thomas,2016-12-22,19,M,B,Capitol Heights,MD
+2165,Michael Tyler Jacques,2016-12-23,31,M,W,Bend,OR
+2167,Stanley Eversol,2016-12-23,55,M,,Palm Harbor,FL
+2168,TK TK,2016-12-23,,M,,El Monte,CA
+2158,Daquan Antonio Westbrook,2016-12-24,18,M,B,Charlotte,NC
+2163,Miriam Ann Savino,2016-12-24,53,F,W,Lake Wales,FL
+2164,TK TK,2016-12-24,,M,,Gadsden,AL
+2166,Zhonghua Li,2016-12-24,48,M,A,Pico Rivera,CA
+2159,Gerald Hall,2016-12-25,29,M,B,Washington,DC
+2160,James Tylka,2016-12-25,30,M,W,King City,OR
+2161,Joseph Garcia,2016-12-25,33,M,,Desha,AR
+2162,Michael Alan Altice,2016-12-25,61,M,W,Middleburg,FL
+2169,Dustin Kirk,2016-12-27,35,M,,Grass Valley,CA
+2170,Judy Boardman,2016-12-27,71,F,W,Pearland,TX
+2171,Alfonso Lopez,2016-12-27,41,M,H,North Riverside,IL
+2172,Jake Childers,2016-12-27,36,M,W,Campbellton,TX
+2175,Christopher Blake Tucker,2016-12-28,28,M,,Spring Hill,TN
+2173,James L. Rich,2016-12-29,52,M,,Chestertown,MD
+2176,Jamal Rollins,2016-12-30,21,M,B,Miami,FL
+2182,TK TK,2016-12-30,,M,,Pensacola,FL
+2186,Dustin Selby,2016-12-30,31,M,,Phoenix,AZ
+2179,Chase Anthony Tuseth,2016-12-31,33,M,W,Mankato,MN
+2181,Ricky Whidden,2016-12-31,46,M,W,Loxahatchee,FL
+2183,Jason Michael Robison,2016-12-31,32,M,W,Huntingdon County,PA
+2177,John McLaughlin,2017-01-01,42,M,W,Springfield,OH
+2178,Trevon Johnson,2017-01-01,17,M,B,Villa Park,IL
+2180,James E. Lewis,2017-01-01,44,M,B,Springfield,MO
+2184,Chad Erik Roberts,2017-01-01,35,M,W,Woodstock,GA
+2185,Juan Carlos Cuadra,2017-01-01,23,M,H,Houston,TX
+2187,Mark Guirguis,2017-01-01,21,M,B,Allen,TX
+2188,Dale Hightower,2017-01-03,53,M,W,Gilmer,TX
+2189,James Owens,2017-01-03,63,M,B,Brooklyn,NY
+2190,Joshua Martino,2017-01-04,18,M,H,Brooklyn,NY
+2191,Ruben Randolph,2017-01-04,51,M,B,Pomona,CA
+2192,Welby O'Dell Mullins,2017-01-04,64,M,W,Lancaster,KY
+2193,Richard A. Jackson,2017-01-04,45,M,W,English,IN
+2194,Luis Vargas,2017-01-05,20,M,H,Dinuba,CA
+2195,Randy Wayne Cole,2017-01-05,41,M,W,Monteagle,TN
+2197,Sean Ryan Hake,2017-01-06,23,M,W,Sharon,PA
+2200,Jamal Parks,2017-01-06,32,M,B,Deerfield,IL
+2196,Daniel Scott Giberson,2017-01-07,25,M,W,Princeton,WV
+2198,Travis Edward Baker,2017-01-07,42,M,W,Fairland,OK
+2199,William Tucker Mathis,2017-01-07,41,M,W,Elkridge,MD
+2201,Hector Navarrete,2017-01-07,31,M,H,Northglenn,CO
+2202,Carlos A. Cruz,2017-01-07,50,M,H,Independence,MO
+2203,Gilbert Zambronio-Lovato,2017-01-07,38,M,H,Albuquerque,NM
+2204,Jason Aldridge,2017-01-08,44,M,W,Cumming,GA
+2205,JR Williams,2017-01-09,38,M,B,Phoenix,AZ
+2206,Davion Henderson,2017-01-09,21,M,B,St. Louis,MO
+2207,Michael Rogers,2017-01-10,32,M,W,Los Angeles,CA
+2223,Darrion Barnhill,2017-01-10,23,M,B,Reagan,TN
+2209,Ronnie Johnson,2017-01-11,41,M,W,Austin,MN
+2210,Hafez Abousamra,2017-01-11,41,M,O,Lake Elsinore,CA
+2215,Jose A. Fernandez-Ventura,2017-01-11,38,M,H,Camden,NJ
+2211,Kevin Ernest Tree,2017-01-12,54,M,W,Ocala,FL
+2224,Jamison Christopher Anderson,2017-01-12,20,M,N,Vineland,MN
+2227,Rodney L. Hoback,2017-01-12,26,M,W,Pearisburg,VA
+2218,Cameron Johnson,2017-01-13,29,M,O,Kahuku,HI
+2221,Scott Laurance Gilpin,2017-01-14,47,M,W,Austin,TX
+2222,Jahlire Nicholson,2017-01-14,28,M,B,New York,NY
+2216,Eric David Anderson,2017-01-15,48,M,W,Azusa,CA
+2217,Sinuon Pream,2017-01-15,37,F,A,Long Beach,CA
+2219,Herbert Johnson,2017-01-15,34,M,B,Chicago,IL
+2220,Dexter Martin Dumarce,2017-01-15,33,M,W,Spokane,WA
+2212,David Wesley Carroll,2017-01-16,36,M,W,Tyrone,GA
+2213,Charles Christopher McClure,2017-01-16,43,M,W,Fulton,KY
+2214,Mohammad Azim Doudzai,2017-01-16,32,M,A,Herndon,VA
+2226,Christopher Dalton Sexton,2017-01-17,29,M,W,Soddy-Daisy,TN
+2229,Dominic Hodges,2017-01-17,39,M,H,Twentynine Palms,CA
+2225,Marlon Joel Rodas-Sanchez,2017-01-18,16,M,H,Salinas,CA
+2228,Stoney McJunkin,2017-01-18,40,M,W,Watts,OK
+2230,Troy Bateman,2017-01-18,35,M,W,Columbia,MO
+2231,Genevive Dawes,2017-01-18,21,F,W,Dallas,TX
+2232,TK TK,2017-01-18,,M,,Los Angeles,CA
+2243,Marquis Thomas,2017-01-18,19,M,,Gary,IN
+2245,Melvin DeLong,2017-01-18,28,M,N,Grand Forks,ND
+2241,Elijah Smith,2017-01-19,25,M,W,Florissant,MO
+2242,William D. Fisher,2017-01-19,49,M,W,Woodford,VA
+2244,Christopher Garza,2017-01-19,44,M,H,Fritch,TX
+2240,Gino Martin Palazzolo,2017-01-20,39,M,W,Gainesville,FL
+2237,Ronnie Lee Shorter,2017-01-21,44,M,B,Greenville,MS
+2239,Paul Carr Palmer,2017-01-21,57,M,W,Jean,NV
+2233,Jon M. Alspaugh,2017-01-22,57,M,W,Waldoboro,ME
+2234,Christopher Thompkins,2017-01-22,57,M,B,Pittsburgh,PA
+2238,Jorge Victor,2017-01-22,33,M,H,Carson,CA
+2235,Angel Ramos,2017-01-23,21,M,H,Vallejo,CA
+2248,Gary Mark Wigley,2017-01-23,52,M,W,Brooklet,GA
+2249,Daniel D. Rogers,2017-01-23,27,M,W,Springfield,IL
+2251,Bruce Altenburger,2017-01-23,60,M,W,Wilmington,DE
+2253,Armond Brown,2017-01-23,25,M,B,Kenner,LA
+2246,Josue Gallardo,2017-01-24,34,M,H,Atascadero,CA
+2247,Dakota A. Lukecart,2017-01-24,22,M,W,Sugar Creek,MO
+2254,Arties Manning,2017-01-24,26,M,B,New Orleans,LA
+2255,Antonio Arturo Perez Garcia,2017-01-24,27,M,H,Bakersfield,CA
+2256,Jeremy Lopez-Robledo,2017-01-24,29,M,H,Las Cruces,NM
+2257,Jonathan David Sper,2017-01-24,30,M,W,Algoma Township,MI
+2258,Jose Efrain Rodriguez,2017-01-24,18,M,H,Lancaster City,PA
+2259,Ramon Milanez,2017-01-24,32,M,H,Kuna,ID
+2260,Micah R. Lambert,2017-01-25,37,M,W,Oxford,AL
+2261,Kevin Darnell Washington,2017-01-25,54,M,B,Southaven,MS
+2262,Donovan Paul Scheurich,2017-01-25,50,M,W,Millston,WI
+2265,Josue Javier Diaz,2017-01-26,28,M,H,Charlotte,NC
+2266,Kerry Lee Coomer,2017-01-26,59,M,W,Overlea,MD
+2267,Deaundre Phillips,2017-01-26,24,M,B,Atlanta,GA
+2268,TK TK,2017-01-26,,M,,Madison Township,OH
+2272,Eduardo Hernandez,2017-01-27,25,M,H,Alhambra,CA
+2273,Gerardo Coronado,2017-01-28,25,M,H,Fort Stockton,TX
+2274,Mi'Chance Dunlap-Gittens,2017-01-28,17,M,B,Des Moines,WA
+2271,Val Thomas,2017-01-29,53,M,,Oakdale,CT
+2275,Steve Salgado,2017-01-29,18,M,H,Santa Ana,CA
+2269,Marvin Washington,2017-01-30,50,M,B,Kiowa,OK
+2270,Jeremy Dowell,2017-01-30,36,M,W,Lynnwood,WA
+2276,Refugio Alvarez,2017-01-30,45,M,H,Fresno,CA
+2277,Spencer Herckt,2017-01-30,42,M,,Modesto,CA
+2278,TK TK,2017-01-31,,M,B,Hollywood,CA
+2280,Tavis Crane,2017-02-01,23,M,B,Arlington,TX
+2301,Michael Russo,2017-02-01,31,M,,Highland,CA
+2282,Kris Kristl,2017-02-02,26,M,W,Geneva,WI
+2302,Michael Sword,2017-02-02,57,M,W,Orange Park,FL
+2304,Jamake Cason Thomas,2017-02-03,22,M,,Rowland,NC
+2281,Jose Gonzales Lera,2017-02-03,27,M,,Olympic Valley,CA
+2285,TK TK,2017-02-03,,M,,Panhandle,TX
+2289,William David Whetstone,2017-02-03,33,M,W,Hickory,NC
+2294,Jamake Cason Thomas,2017-02-03,22,M,B,Rowland,NC
+2297,Daniel McMasters,2017-02-03,38,M,,Grafton,WV
+2298,Marco A. Gomez,2017-02-03,26,M,H,Forest Park,IL
+2299,Daniel Loren Rucker,2017-02-03,45,M,,Irving,TX
+2288,Johnnie J. Harris,2017-02-04,68,M,,Kansas City,MO
+2293,Thomas Scott Henry,2017-02-04,56,M,,DeLand,FL
+2283,Nana Adomako,2017-02-05,45,M,,Fremont,CA
+2286,Shelly Porter,2017-02-05,41,M,B,Englewood,OH
+2300,Andrew Byrd,2017-02-05,33,M,,Pueblo,CO
+2305,Jerome Allen,2017-02-06,22,M,B,Jacksonville,FL
+2306,Cole Wooley,2017-02-06,50,M,,Commerce City,CO
+2287,Gerardo Vasquez,2017-02-06,52,M,H,Santa Monica,CA
+2308,Alex Christopher Davis,2017-02-07,18,M,W,Jackson County,AL
+2309,Bradley Nelson,2017-02-07,35,M,,Mt. Pleasant,TN
+2310,Curtis Jamal Deal,2017-02-07,18,M,B,Baltimore,MD
+2312,Richard Latimer,2017-02-07,34,M,W,Howland Township,OH
+2307,Donald Parker,2017-02-08,29,M,,Brookville,IN
+2314,Henry James Hunter,2017-02-08,34,M,N,Anadarko,OK
+2313,Vincent Palma,2017-02-09,26,M,W,Geneva Township,OH
+2315,TK TK,2017-02-09,33,M,,Lake Stevens,WA
+2316,Quanice Derrick Hayes,2017-02-09,17,M,B,Portland,OR
+2319,TK TK,2017-02-09,,M,,Crownpoint,NM
+2317,TK TK,2017-02-10,,M,,Vancouver,WA
+2322,Jocques Scott Clemmons,2017-02-10,31,M,B,Nashville,TN
+2326,Michelle Robey,2017-02-10,55,F,W,Chicago,IL
+2330,James McMullen,2017-02-10,45,M,,Bethany,OK
+2331,Carlos Keith Blackman,2017-02-10,25,M,,Greensboro,NC
+2332,Darryl L. Fuqua,2017-02-10,23,M,B,Bridgeton,NJ
+2318,Jason Robert Mendez,2017-02-11,37,M,W,Greenville,SC
+2320,TK TK,2017-02-11,33,M,,Aiea,HI
+2321,Alonzo E. Ashley,2017-02-11,27,M,,Kansas City,MO
+2323,William Young,2017-02-11,31,M,W,Louisville,KY
+2324,Kadhar Bailey,2017-02-11,25,M,W,Vassalboro,ME
+2325,Ambroshia Fagre,2017-02-11,18,F,,Vassalboro,ME
+2328,TK TK,2017-02-12,,M,,Terrell,TX
+2329,Willard Eugene Scott,2017-02-12,31,M,B,Durham,NC
+2333,Brian Carreno,2017-02-12,26,M,,Santa Barbara,CA
