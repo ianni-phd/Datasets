@@ -4582,7 +4582,8 @@ uid,name,age,gender,race,date,city,state,manner_of_death,mental_illness
 8109,Jessie Lee Rose,19,Male,Native,2013-07-14,Utica,NY,Shot,false
 8303,Eric Reed,25,Male,Native,2013-09-06,Window Rock,AZ,Shot,false
 8492,John Curtis JC Garreaux,24,Male,Native,2013-10-30,Fort Thompson,SD,Shot,false
-8652,"""Mah-hi-vist Touching Cloud Goodblanket""",18,Male,Native,2013-12-21,Clinton,OK,Shot,true
+8652,"""Mah-hi-vist Touching Cloud Goodblanket
+""",18,Male,Native,2013-12-21,Clinton,OK,Shot,true
 8805,Robert Vuilla,23,Male,Native,2014-02-10,Tustin,CA,Shot,false
 8858,Clay Spotted Bear,19,Male,Native,2014-03-03,Browning,MT,Shot,false
 8940,Alfred Redwine,30,Male,Native,2014-03-25,Albuquerque,NM,Shot,false
